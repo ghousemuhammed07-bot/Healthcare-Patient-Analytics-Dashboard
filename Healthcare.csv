@@ -1,0 +1,1001 @@
+PatientID,Age,Gender,Region,AdmissionDate,DischargeDate,Department,Diagnosis,TreatmentCost,InsuranceType,Outcome,Readmission,SatisfactionScore
+P0001,70,Female,East,20-12-2023,03-01-2024,Pediatrics,Asthma,153601.06,Government,Critical,No,5
+P0002,56,Male,South,27-05-2023,06-06-2023,General Medicine,Cancer,180769.77,Private,Critical,Yes,4
+P0003,62,Male,South,18-11-2023,21-11-2023,Neurology,Diabetes,5789.85,Self-Pay,Critical,No,2
+P0004,79,Male,West,31-12-2023,09-01-2024,Neurology,Hypertension,44720.21,Private,Improved,Yes,5
+P0005,68,Male,East,21-01-2023,29-01-2023,Pediatrics,Heart Disease,155506.33,Self-Pay,Improved,No,2
+P0006,20,Female,North,05-05-2023,08-05-2023,Pediatrics,Cancer,28351.13,Private,Recovered,No,4
+P0007,68,Female,West,13-04-2023,15-04-2023,General Medicine,Asthma,152959.75,Private,Improved,No,2
+P0008,21,Female,North,09-10-2023,20-10-2023,Oncology,Diabetes,106836.94,Self-Pay,Critical,No,2
+P0009,32,Female,West,11-05-2023,22-05-2023,Neurology,Fracture,126954.99,Government,Improved,Yes,4
+P0010,69,Female,West,03-12-2023,07-12-2023,Cardiology,Fracture,160926.84,Government,Critical,Yes,4
+P0011,42,Female,North,09-10-2023,11-10-2023,Cardiology,Heart Disease,78215.36,Self-Pay,Improved,No,4
+P0012,70,Male,North,19-11-2023,25-11-2023,Pediatrics,Heart Disease,158187.99,Government,Critical,No,5
+P0013,68,Female,South,19-10-2023,02-11-2023,Pediatrics,Cancer,154051.36,Government,Improved,No,2
+P0014,43,Female,South,03-09-2023,14-09-2023,Oncology,Migraine,92618,Government,Improved,No,5
+P0015,40,Male,North,22-08-2023,06-09-2023,Neurology,Migraine,96818.78,Private,Improved,Yes,3
+P0016,70,Female,East,24-01-2023,03-02-2023,Cardiology,Hypertension,77139.7,Private,Critical,No,4
+P0017,82,Female,South,11-08-2023,22-08-2023,Pediatrics,Hypertension,104689.02,Government,Recovered,No,1
+P0018,45,Female,East,03-04-2023,09-04-2023,Pediatrics,Diabetes,178474.75,Self-Pay,Recovered,Yes,3
+P0019,22,Female,North,13-09-2023,23-09-2023,Pediatrics,Migraine,93716.05,Government,Improved,Yes,3
+P0020,49,Male,East,06-06-2023,21-06-2023,Orthopedics,Migraine,123227.75,Government,Critical,Yes,4
+P0021,21,Female,West,18-10-2023,21-10-2023,Neurology,Hypertension,126926.4,Government,Critical,Yes,1
+P0022,84,Male,West,01-01-2024,03-01-2024,Orthopedics,Cancer,10896.1,Self-Pay,Improved,Yes,4
+P0023,25,Female,South,31-12-2023,15-01-2024,Pediatrics,Migraine,37515.39,Government,Recovered,Yes,3
+P0024,82,Male,North,27-07-2023,10-08-2023,Orthopedics,Diabetes,141485.9,Government,Critical,Yes,4
+P0025,60,Male,North,30-10-2023,31-10-2023,General Medicine,Asthma,85929.93,Government,Improved,No,3
+P0026,40,Female,North,27-04-2023,30-04-2023,General Medicine,Diabetes,158089.95,Government,Critical,No,3
+P0027,48,Female,East,31-10-2023,10-11-2023,Pediatrics,Fracture,22345.7,Private,Improved,Yes,3
+P0028,56,Male,East,09-06-2023,21-06-2023,Orthopedics,Diabetes,78338.46,Government,Critical,No,4
+P0029,43,Male,East,21-12-2023,03-01-2024,Orthopedics,Heart Disease,182360.35,Self-Pay,Critical,Yes,4
+P0030,84,Male,South,24-05-2023,02-06-2023,Oncology,Hypertension,129136.74,Private,Recovered,No,3
+P0031,61,Female,East,20-07-2023,28-07-2023,General Medicine,Hypertension,133179.3,Self-Pay,Improved,Yes,1
+P0032,76,Male,West,21-04-2023,04-05-2023,Oncology,Migraine,155887.91,Self-Pay,Critical,Yes,1
+P0033,54,Male,North,15-08-2023,17-08-2023,General Medicine,Migraine,145093.27,Government,Recovered,No,4
+P0034,51,Female,South,22-08-2023,02-09-2023,Orthopedics,Cancer,35438.83,Self-Pay,Critical,Yes,5
+P0035,27,Male,North,04-05-2023,06-05-2023,Oncology,Asthma,149164.63,Private,Recovered,Yes,3
+P0036,21,Male,West,24-10-2023,25-10-2023,Neurology,Heart Disease,33851.74,Government,Recovered,Yes,5
+P0037,25,Female,East,07-09-2023,22-09-2023,General Medicine,Fracture,30712.05,Government,Improved,Yes,3
+P0038,61,Female,North,07-02-2023,19-02-2023,Oncology,Cancer,86325.8,Government,Recovered,Yes,1
+P0039,70,Female,West,24-08-2023,26-08-2023,Pediatrics,Heart Disease,76333.12,Private,Recovered,Yes,3
+P0040,65,Male,West,04-09-2023,13-09-2023,Neurology,Asthma,169939.43,Government,Recovered,Yes,3
+P0041,58,Male,West,04-06-2023,05-06-2023,Oncology,Migraine,80068.77,Government,Critical,No,4
+P0042,24,Female,East,06-01-2023,11-01-2023,Orthopedics,Migraine,69119.72,Private,Improved,Yes,3
+P0043,77,Male,North,28-05-2023,04-06-2023,Neurology,Migraine,110957.46,Private,Improved,Yes,4
+P0044,83,Male,West,20-03-2023,01-04-2023,Pediatrics,Hypertension,56175.25,Private,Recovered,No,5
+P0045,27,Male,East,02-07-2023,07-07-2023,General Medicine,Hypertension,149171.16,Government,Improved,Yes,2
+P0046,39,Male,South,21-05-2023,05-06-2023,Orthopedics,Fracture,107243.24,Private,Critical,No,2
+P0047,78,Female,West,20-05-2023,29-05-2023,General Medicine,Heart Disease,129118.39,Self-Pay,Critical,No,4
+P0048,73,Female,South,29-11-2023,13-12-2023,General Medicine,Hypertension,168263.54,Private,Recovered,No,2
+P0049,30,Male,West,03-07-2023,16-07-2023,Oncology,Heart Disease,103428.86,Private,Improved,No,5
+P0050,65,Female,East,23-06-2023,30-06-2023,General Medicine,Diabetes,20401.96,Government,Improved,Yes,4
+P0051,63,Male,South,09-12-2023,19-12-2023,Pediatrics,Hypertension,171212.37,Self-Pay,Improved,No,4
+P0052,38,Male,South,21-05-2023,01-06-2023,Oncology,Diabetes,27261.37,Private,Improved,Yes,2
+P0053,45,Male,South,02-12-2023,17-12-2023,Pediatrics,Diabetes,83497.08,Self-Pay,Critical,Yes,4
+P0054,30,Female,South,27-01-2023,10-02-2023,Neurology,Hypertension,66721.86,Private,Critical,No,5
+P0055,81,Female,North,29-07-2023,09-08-2023,Cardiology,Fracture,183257.02,Private,Improved,No,2
+P0056,76,Female,West,19-08-2023,25-08-2023,Orthopedics,Hypertension,34289.82,Government,Recovered,No,1
+P0057,48,Female,North,15-02-2023,19-02-2023,Neurology,Cancer,191190.32,Government,Improved,No,1
+P0058,18,Male,West,09-03-2023,24-03-2023,Orthopedics,Fracture,100387.31,Self-Pay,Recovered,Yes,4
+P0059,73,Female,West,26-01-2023,04-02-2023,Pediatrics,Heart Disease,177849.13,Self-Pay,Critical,Yes,4
+P0060,20,Female,North,03-02-2023,16-02-2023,Oncology,Diabetes,13596.47,Private,Recovered,Yes,1
+P0061,49,Female,North,18-01-2023,19-01-2023,Pediatrics,Cancer,51390.02,Government,Recovered,No,2
+P0062,42,Male,North,16-09-2023,17-09-2023,Orthopedics,Hypertension,194418.49,Private,Recovered,No,3
+P0063,21,Female,West,27-07-2023,09-08-2023,Pediatrics,Cancer,53358.58,Government,Recovered,No,4
+P0064,18,Female,West,22-06-2023,07-07-2023,Cardiology,Diabetes,73933.29,Government,Improved,No,1
+P0065,53,Female,East,19-06-2023,30-06-2023,Cardiology,Diabetes,13849.38,Private,Improved,No,1
+P0066,81,Male,South,20-08-2023,30-08-2023,Orthopedics,Fracture,173313.91,Private,Improved,No,4
+P0067,70,Female,North,25-12-2023,07-01-2024,Pediatrics,Fracture,169876.76,Self-Pay,Critical,No,2
+P0068,69,Female,West,06-07-2023,08-07-2023,General Medicine,Migraine,100761.9,Self-Pay,Critical,Yes,2
+P0069,58,Female,West,08-05-2023,15-05-2023,Oncology,Heart Disease,132201.47,Private,Critical,No,5
+P0070,85,Female,North,20-03-2023,22-03-2023,Oncology,Cancer,52111.86,Self-Pay,Recovered,Yes,5
+P0071,50,Female,West,23-01-2023,28-01-2023,Oncology,Asthma,175837.67,Government,Recovered,No,2
+P0072,55,Male,North,03-04-2023,13-04-2023,Neurology,Migraine,91338.43,Government,Recovered,No,3
+P0073,74,Female,South,16-05-2023,29-05-2023,Oncology,Asthma,31854.01,Private,Improved,No,1
+P0074,58,Male,South,20-11-2023,01-12-2023,Oncology,Cancer,29875.09,Private,Critical,Yes,1
+P0075,44,Male,North,16-04-2023,29-04-2023,Oncology,Diabetes,179665.24,Self-Pay,Improved,No,3
+P0076,55,Male,South,28-02-2023,02-03-2023,Cardiology,Migraine,62987.42,Self-Pay,Critical,No,5
+P0077,85,Male,South,03-09-2023,04-09-2023,Cardiology,Migraine,123633.49,Government,Critical,Yes,2
+P0078,21,Male,South,24-08-2023,06-09-2023,Pediatrics,Diabetes,13195.06,Government,Recovered,No,1
+P0079,37,Male,West,21-05-2023,30-05-2023,Neurology,Cancer,95717.12,Government,Critical,No,4
+P0080,69,Female,West,24-06-2023,27-06-2023,General Medicine,Fracture,150127.07,Government,Recovered,No,5
+P0081,51,Female,East,07-07-2023,09-07-2023,Oncology,Cancer,34413.92,Private,Recovered,Yes,3
+P0082,54,Female,South,27-05-2023,03-06-2023,Orthopedics,Asthma,179181.14,Government,Recovered,Yes,4
+P0083,19,Male,West,06-06-2023,08-06-2023,Orthopedics,Asthma,156128.14,Private,Critical,No,3
+P0084,46,Male,West,27-09-2023,03-10-2023,General Medicine,Migraine,39384.53,Government,Improved,No,3
+P0085,53,Male,North,13-09-2023,15-09-2023,Cardiology,Heart Disease,125151.61,Government,Improved,No,4
+P0086,33,Male,South,14-02-2023,15-02-2023,Orthopedics,Diabetes,109955.16,Self-Pay,Improved,Yes,1
+P0087,31,Female,West,19-05-2023,01-06-2023,Oncology,Cancer,10909.87,Self-Pay,Critical,Yes,5
+P0088,42,Male,West,06-06-2023,10-06-2023,Cardiology,Hypertension,157033.89,Private,Improved,No,4
+P0089,35,Male,North,28-10-2023,10-11-2023,Neurology,Cancer,77283.45,Self-Pay,Improved,No,1
+P0090,53,Female,West,13-07-2023,23-07-2023,Neurology,Hypertension,78621.25,Self-Pay,Critical,No,2
+P0091,49,Male,West,14-01-2023,22-01-2023,Pediatrics,Hypertension,119620.72,Self-Pay,Critical,Yes,1
+P0092,32,Male,West,11-10-2023,13-10-2023,Pediatrics,Fracture,195570.3,Private,Critical,No,4
+P0093,48,Female,South,15-12-2023,29-12-2023,Pediatrics,Cancer,45843.33,Private,Critical,No,3
+P0094,38,Female,West,20-01-2023,22-01-2023,Orthopedics,Diabetes,79136.61,Government,Improved,No,4
+P0095,64,Female,East,27-05-2023,28-05-2023,Oncology,Asthma,50725.9,Self-Pay,Critical,No,1
+P0096,37,Female,South,12-06-2023,15-06-2023,Cardiology,Cancer,158637.83,Private,Recovered,No,2
+P0097,63,Male,West,22-01-2023,01-02-2023,Cardiology,Asthma,50635.99,Government,Improved,Yes,1
+P0098,36,Female,North,18-01-2023,02-02-2023,Neurology,Cancer,79056.15,Private,Improved,Yes,5
+P0099,49,Female,South,25-07-2023,05-08-2023,Cardiology,Fracture,121902.77,Self-Pay,Critical,No,5
+P0100,82,Female,West,20-12-2023,01-01-2024,Neurology,Cancer,113671.21,Self-Pay,Critical,No,5
+P0101,25,Male,North,22-08-2023,01-09-2023,Pediatrics,Migraine,19055.17,Government,Critical,No,2
+P0102,32,Male,East,22-06-2023,23-06-2023,Pediatrics,Heart Disease,130242.62,Government,Critical,No,1
+P0103,37,Male,West,08-05-2023,21-05-2023,Oncology,Heart Disease,186003.01,Private,Recovered,Yes,1
+P0104,77,Female,East,13-12-2023,20-12-2023,Oncology,Fracture,148403.69,Self-Pay,Recovered,Yes,4
+P0105,34,Male,South,15-02-2023,20-02-2023,Cardiology,Heart Disease,142070.78,Private,Recovered,Yes,1
+P0106,30,Male,South,11-01-2023,25-01-2023,Cardiology,Heart Disease,86735.35,Government,Recovered,Yes,4
+P0107,73,Female,South,01-03-2023,11-03-2023,Orthopedics,Heart Disease,142139.67,Self-Pay,Recovered,No,4
+P0108,70,Male,South,24-08-2023,29-08-2023,General Medicine,Diabetes,177785.11,Self-Pay,Recovered,Yes,1
+P0109,61,Female,West,18-11-2023,23-11-2023,Cardiology,Cancer,45373.07,Government,Improved,No,2
+P0110,64,Female,West,19-03-2023,29-03-2023,Neurology,Fracture,26887.15,Government,Recovered,No,2
+P0111,78,Female,North,11-08-2023,13-08-2023,Oncology,Hypertension,133872.96,Private,Improved,Yes,4
+P0112,29,Male,North,30-09-2023,01-10-2023,Oncology,Fracture,39394.79,Private,Improved,No,4
+P0113,60,Female,West,29-04-2023,09-05-2023,Cardiology,Diabetes,12358.53,Government,Recovered,No,2
+P0114,49,Male,North,12-01-2023,26-01-2023,Pediatrics,Heart Disease,116983.13,Self-Pay,Recovered,Yes,4
+P0115,44,Female,East,24-12-2023,08-01-2024,Cardiology,Fracture,100549.1,Private,Critical,Yes,1
+P0116,68,Male,East,10-09-2023,17-09-2023,Pediatrics,Diabetes,135633.48,Self-Pay,Recovered,Yes,5
+P0117,81,Male,South,06-07-2023,18-07-2023,Neurology,Diabetes,154865.63,Private,Critical,No,1
+P0118,23,Male,West,26-04-2023,10-05-2023,Cardiology,Cancer,85679.91,Self-Pay,Critical,No,1
+P0119,58,Male,North,07-05-2023,09-05-2023,Orthopedics,Migraine,96134.75,Private,Improved,Yes,4
+P0120,85,Female,North,24-08-2023,01-09-2023,Orthopedics,Heart Disease,97616.13,Government,Recovered,Yes,5
+P0121,19,Female,West,03-06-2023,12-06-2023,Neurology,Heart Disease,44221.66,Self-Pay,Improved,Yes,3
+P0122,65,Female,East,24-02-2023,25-02-2023,Neurology,Cancer,22102.94,Government,Critical,Yes,4
+P0123,37,Female,North,14-01-2023,23-01-2023,Neurology,Migraine,62889.6,Government,Improved,No,5
+P0124,23,Male,South,27-07-2023,31-07-2023,Pediatrics,Heart Disease,120823.13,Government,Critical,No,5
+P0125,49,Female,South,18-02-2023,21-02-2023,Oncology,Heart Disease,9984.99,Self-Pay,Improved,Yes,2
+P0126,77,Female,West,27-06-2023,07-07-2023,Pediatrics,Cancer,171037.16,Private,Improved,No,5
+P0127,20,Female,North,03-03-2023,09-03-2023,Cardiology,Fracture,183981.51,Government,Improved,No,5
+P0128,21,Female,East,16-08-2023,29-08-2023,Orthopedics,Fracture,110745,Self-Pay,Critical,Yes,3
+P0129,61,Female,North,03-05-2023,18-05-2023,Oncology,Hypertension,171349.29,Self-Pay,Improved,No,3
+P0130,27,Female,North,23-11-2023,01-12-2023,Orthopedics,Hypertension,46287.71,Private,Critical,Yes,2
+P0131,59,Male,West,17-07-2023,22-07-2023,General Medicine,Fracture,92185.76,Government,Critical,No,5
+P0132,78,Male,South,25-04-2023,06-05-2023,Cardiology,Cancer,163562.88,Self-Pay,Critical,Yes,4
+P0133,66,Male,West,19-01-2023,30-01-2023,Pediatrics,Asthma,119002.12,Self-Pay,Critical,Yes,3
+P0134,60,Female,East,09-12-2023,10-12-2023,General Medicine,Asthma,117082.22,Private,Critical,Yes,2
+P0135,64,Male,East,12-02-2023,25-02-2023,General Medicine,Cancer,50656.9,Self-Pay,Recovered,No,5
+P0136,43,Male,East,08-04-2023,22-04-2023,Oncology,Cancer,87739.82,Self-Pay,Improved,No,1
+P0137,84,Female,North,12-11-2023,15-11-2023,Pediatrics,Cancer,82946.72,Private,Improved,Yes,4
+P0138,24,Male,North,25-02-2023,26-02-2023,Orthopedics,Migraine,152591.51,Private,Improved,No,2
+P0139,41,Male,East,22-10-2023,02-11-2023,Oncology,Migraine,143435.27,Government,Improved,Yes,1
+P0140,36,Male,South,04-12-2023,17-12-2023,Cardiology,Cancer,14984.3,Self-Pay,Critical,No,3
+P0141,81,Female,West,06-03-2023,12-03-2023,Pediatrics,Diabetes,180771,Government,Critical,No,5
+P0142,52,Male,South,01-07-2023,15-07-2023,Neurology,Cancer,28474.87,Self-Pay,Improved,Yes,1
+P0143,57,Male,South,15-07-2023,26-07-2023,Orthopedics,Diabetes,142055.52,Private,Improved,No,5
+P0144,35,Female,North,28-12-2023,11-01-2024,General Medicine,Asthma,157054.62,Self-Pay,Critical,Yes,5
+P0145,32,Male,South,30-04-2023,09-05-2023,Neurology,Hypertension,80599.23,Private,Improved,Yes,5
+P0146,83,Female,North,05-09-2023,20-09-2023,Oncology,Migraine,50439.87,Government,Critical,No,3
+P0147,35,Male,West,28-04-2023,06-05-2023,General Medicine,Cancer,156642.58,Self-Pay,Improved,Yes,1
+P0148,55,Male,West,04-05-2023,16-05-2023,General Medicine,Cancer,51824.31,Self-Pay,Critical,No,5
+P0149,67,Male,West,24-09-2023,06-10-2023,General Medicine,Migraine,84136.41,Self-Pay,Recovered,Yes,2
+P0150,73,Male,North,21-11-2023,26-11-2023,Neurology,Hypertension,51778.39,Private,Critical,No,4
+P0151,82,Female,East,18-02-2023,23-02-2023,Orthopedics,Fracture,119527.04,Self-Pay,Critical,Yes,1
+P0152,49,Female,North,30-04-2023,13-05-2023,Orthopedics,Cancer,106546.59,Self-Pay,Improved,No,4
+P0153,22,Male,North,13-03-2023,27-03-2023,Cardiology,Heart Disease,19618.76,Self-Pay,Recovered,No,2
+P0154,33,Female,South,06-07-2023,11-07-2023,Oncology,Heart Disease,70527.86,Government,Critical,Yes,2
+P0155,33,Female,North,01-10-2023,13-10-2023,Orthopedics,Asthma,88896.56,Self-Pay,Recovered,No,5
+P0156,27,Male,South,21-04-2023,24-04-2023,Oncology,Diabetes,124324.34,Government,Improved,Yes,2
+P0157,33,Female,North,19-09-2023,27-09-2023,Cardiology,Fracture,199064.93,Government,Recovered,No,5
+P0158,18,Male,South,15-12-2023,29-12-2023,Orthopedics,Hypertension,62536.9,Self-Pay,Recovered,Yes,4
+P0159,22,Female,West,17-11-2023,20-11-2023,Orthopedics,Asthma,49171.93,Government,Recovered,No,2
+P0160,83,Female,East,23-01-2023,02-02-2023,General Medicine,Asthma,156650.04,Private,Improved,Yes,5
+P0161,55,Male,South,20-03-2023,25-03-2023,Pediatrics,Migraine,39182.17,Private,Critical,Yes,4
+P0162,83,Male,North,02-06-2023,11-06-2023,General Medicine,Diabetes,39184.86,Self-Pay,Critical,No,3
+P0163,62,Male,North,05-09-2023,07-09-2023,General Medicine,Fracture,168573.82,Private,Improved,Yes,2
+P0164,48,Male,North,04-10-2023,11-10-2023,Oncology,Cancer,75205.59,Private,Critical,No,4
+P0165,68,Male,North,01-11-2023,16-11-2023,Oncology,Diabetes,193959.13,Private,Critical,No,2
+P0166,74,Female,West,16-08-2023,21-08-2023,Pediatrics,Hypertension,27630.27,Government,Critical,Yes,1
+P0167,32,Male,East,22-10-2023,25-10-2023,Oncology,Asthma,92764.68,Private,Improved,Yes,3
+P0168,64,Female,North,25-05-2023,29-05-2023,Orthopedics,Heart Disease,57248.78,Self-Pay,Improved,No,5
+P0169,50,Male,East,11-06-2023,14-06-2023,Oncology,Cancer,190222.77,Self-Pay,Improved,No,1
+P0170,63,Male,North,03-06-2023,11-06-2023,Pediatrics,Fracture,131528.69,Government,Recovered,No,2
+P0171,83,Female,South,25-09-2023,28-09-2023,Pediatrics,Cancer,49217.38,Government,Critical,No,1
+P0172,73,Male,South,25-11-2023,07-12-2023,Pediatrics,Fracture,163154.76,Government,Critical,Yes,5
+P0173,26,Female,South,04-06-2023,14-06-2023,Neurology,Asthma,45487,Government,Improved,No,5
+P0174,58,Male,North,10-02-2023,17-02-2023,Pediatrics,Cancer,178510.22,Private,Critical,No,2
+P0175,46,Male,North,13-08-2023,25-08-2023,Oncology,Migraine,30498.89,Private,Improved,Yes,1
+P0176,81,Male,West,20-06-2023,26-06-2023,Pediatrics,Cancer,183872.65,Private,Recovered,No,1
+P0177,67,Female,North,20-10-2023,24-10-2023,Orthopedics,Diabetes,62899.39,Government,Improved,Yes,1
+P0178,48,Male,West,15-01-2023,18-01-2023,Neurology,Migraine,145587.57,Government,Critical,No,2
+P0179,67,Female,West,03-01-2023,09-01-2023,Pediatrics,Heart Disease,149846.91,Private,Improved,Yes,3
+P0180,41,Male,West,05-02-2023,20-02-2023,Neurology,Heart Disease,33384.48,Self-Pay,Critical,Yes,5
+P0181,55,Male,South,07-01-2023,16-01-2023,Oncology,Heart Disease,10896.85,Private,Critical,Yes,2
+P0182,23,Male,East,06-10-2023,19-10-2023,Pediatrics,Hypertension,42810.97,Government,Improved,No,3
+P0183,80,Female,West,26-05-2023,01-06-2023,Orthopedics,Migraine,88627.26,Private,Critical,No,4
+P0184,33,Female,South,06-05-2023,13-05-2023,General Medicine,Heart Disease,40512.93,Private,Critical,No,1
+P0185,84,Female,West,06-11-2023,09-11-2023,Neurology,Migraine,14701.3,Government,Critical,Yes,2
+P0186,54,Male,East,22-11-2023,28-11-2023,Orthopedics,Hypertension,114826.01,Self-Pay,Critical,No,4
+P0187,62,Female,West,07-06-2023,21-06-2023,Orthopedics,Asthma,93161.95,Private,Improved,Yes,4
+P0188,40,Female,South,10-03-2023,11-03-2023,Cardiology,Migraine,30371.63,Private,Critical,Yes,4
+P0189,22,Female,West,25-08-2023,27-08-2023,Oncology,Fracture,144424.36,Government,Critical,Yes,1
+P0190,56,Male,West,26-02-2023,06-03-2023,Oncology,Asthma,94812.59,Private,Recovered,No,1
+P0191,81,Female,North,08-04-2023,12-04-2023,General Medicine,Heart Disease,40715.66,Government,Recovered,Yes,4
+P0192,20,Female,West,19-07-2023,02-08-2023,Neurology,Diabetes,74992.18,Self-Pay,Improved,No,1
+P0193,44,Male,South,01-08-2023,08-08-2023,Orthopedics,Migraine,64476.06,Government,Improved,Yes,1
+P0194,27,Male,West,04-12-2023,17-12-2023,Oncology,Diabetes,76125.79,Government,Recovered,Yes,4
+P0195,46,Female,North,27-08-2023,28-08-2023,General Medicine,Hypertension,73885.71,Self-Pay,Recovered,Yes,1
+P0196,50,Female,North,13-04-2023,25-04-2023,Cardiology,Hypertension,8372.36,Self-Pay,Improved,No,5
+P0197,23,Female,West,13-03-2023,28-03-2023,General Medicine,Asthma,142476.3,Self-Pay,Critical,No,1
+P0198,28,Male,West,13-08-2023,26-08-2023,Neurology,Cancer,103907.64,Government,Improved,No,5
+P0199,77,Female,North,14-05-2023,28-05-2023,Neurology,Asthma,50558.41,Self-Pay,Recovered,No,3
+P0200,18,Male,South,15-03-2023,25-03-2023,Pediatrics,Asthma,199216.94,Government,Critical,Yes,3
+P0201,32,Male,East,12-07-2023,13-07-2023,Pediatrics,Heart Disease,125731.05,Self-Pay,Recovered,No,2
+P0202,31,Male,West,13-05-2023,27-05-2023,General Medicine,Cancer,194283.31,Private,Recovered,Yes,1
+P0203,21,Male,West,20-10-2023,31-10-2023,Oncology,Hypertension,196785.62,Private,Improved,Yes,2
+P0204,70,Male,South,20-05-2023,21-05-2023,Pediatrics,Asthma,117633.07,Private,Critical,Yes,5
+P0205,45,Female,East,11-07-2023,17-07-2023,Orthopedics,Diabetes,187800.83,Self-Pay,Critical,No,1
+P0206,37,Male,East,15-05-2023,23-05-2023,Neurology,Cancer,12025.84,Self-Pay,Critical,Yes,5
+P0207,36,Male,South,01-07-2023,14-07-2023,Pediatrics,Asthma,100304.35,Private,Improved,No,5
+P0208,50,Female,North,04-03-2023,12-03-2023,Neurology,Asthma,9425.74,Government,Recovered,No,4
+P0209,79,Female,West,17-12-2023,26-12-2023,Cardiology,Heart Disease,146542.21,Self-Pay,Critical,No,3
+P0210,47,Female,West,30-10-2023,09-11-2023,Neurology,Heart Disease,155212.43,Self-Pay,Critical,No,4
+P0211,75,Male,West,10-10-2023,19-10-2023,General Medicine,Cancer,128535.04,Self-Pay,Critical,No,3
+P0212,78,Male,East,25-05-2023,01-06-2023,General Medicine,Hypertension,24325.32,Government,Improved,Yes,4
+P0213,81,Male,South,06-04-2023,20-04-2023,Cardiology,Migraine,84612.24,Government,Critical,Yes,3
+P0214,22,Female,South,21-03-2023,24-03-2023,Neurology,Asthma,150661.61,Private,Critical,No,5
+P0215,40,Female,North,06-06-2023,14-06-2023,General Medicine,Fracture,68177.16,Private,Improved,No,1
+P0216,51,Male,East,05-05-2023,14-05-2023,Orthopedics,Hypertension,21947.33,Government,Improved,No,3
+P0217,75,Female,North,06-11-2023,12-11-2023,Cardiology,Cancer,15723.22,Private,Critical,Yes,4
+P0218,46,Female,South,29-09-2023,09-10-2023,General Medicine,Migraine,21342.62,Private,Improved,No,2
+P0219,23,Male,North,26-06-2023,28-06-2023,Cardiology,Migraine,124661.53,Private,Recovered,Yes,2
+P0220,69,Male,South,28-08-2023,02-09-2023,Orthopedics,Cancer,117672.61,Government,Improved,No,4
+P0221,75,Male,West,29-06-2023,01-07-2023,Oncology,Cancer,37111.46,Government,Recovered,No,3
+P0222,69,Male,West,17-11-2023,29-11-2023,Oncology,Asthma,31840.68,Government,Critical,Yes,5
+P0223,55,Female,West,31-01-2023,12-02-2023,Pediatrics,Migraine,98667.88,Self-Pay,Recovered,Yes,1
+P0224,60,Male,West,26-06-2023,03-07-2023,Oncology,Migraine,24676.56,Private,Recovered,Yes,4
+P0225,60,Male,South,29-09-2023,10-10-2023,Cardiology,Asthma,172927.79,Private,Recovered,Yes,1
+P0226,66,Male,East,20-05-2023,02-06-2023,Cardiology,Hypertension,95623.76,Self-Pay,Critical,Yes,4
+P0227,74,Female,West,13-12-2023,25-12-2023,Oncology,Asthma,60748.69,Private,Critical,Yes,4
+P0228,54,Male,East,31-03-2023,12-04-2023,General Medicine,Cancer,116300.31,Private,Improved,Yes,4
+P0229,84,Male,West,08-10-2023,18-10-2023,Neurology,Asthma,77233.08,Private,Critical,No,1
+P0230,84,Female,West,25-12-2023,28-12-2023,Orthopedics,Fracture,5130.32,Private,Improved,No,4
+P0231,19,Female,West,28-03-2023,05-04-2023,Orthopedics,Asthma,82787.67,Self-Pay,Critical,No,1
+P0232,85,Male,North,19-12-2023,03-01-2024,Pediatrics,Heart Disease,89942.37,Self-Pay,Recovered,Yes,4
+P0233,38,Female,South,16-11-2023,19-11-2023,Oncology,Diabetes,32535.24,Self-Pay,Improved,Yes,3
+P0234,21,Female,South,01-05-2023,09-05-2023,General Medicine,Hypertension,142681.49,Private,Recovered,Yes,1
+P0235,85,Male,South,23-01-2023,24-01-2023,Pediatrics,Asthma,104531.95,Government,Recovered,No,5
+P0236,65,Male,West,11-04-2023,21-04-2023,Oncology,Asthma,90228.3,Government,Recovered,No,3
+P0237,72,Female,North,26-05-2023,29-05-2023,Pediatrics,Diabetes,194849.8,Self-Pay,Recovered,Yes,3
+P0238,84,Male,South,16-04-2023,24-04-2023,General Medicine,Cancer,100360.1,Government,Improved,No,3
+P0239,29,Male,West,22-10-2023,05-11-2023,Orthopedics,Heart Disease,118882.57,Government,Improved,Yes,3
+P0240,18,Female,East,18-04-2023,20-04-2023,Neurology,Heart Disease,102698.98,Government,Recovered,Yes,2
+P0241,74,Male,West,24-06-2023,30-06-2023,General Medicine,Heart Disease,33132.36,Private,Improved,No,2
+P0242,69,Male,West,19-11-2023,28-11-2023,Pediatrics,Heart Disease,168853.13,Government,Critical,No,4
+P0243,82,Female,East,26-05-2023,06-06-2023,General Medicine,Migraine,176439.51,Private,Critical,No,5
+P0244,22,Female,North,17-02-2023,20-02-2023,Cardiology,Migraine,56224.09,Private,Improved,No,4
+P0245,82,Female,South,17-03-2023,01-04-2023,Pediatrics,Migraine,16286.6,Private,Recovered,Yes,3
+P0246,18,Female,South,09-04-2023,15-04-2023,Oncology,Cancer,190917.95,Government,Critical,Yes,5
+P0247,63,Male,West,20-01-2023,01-02-2023,Cardiology,Asthma,14763.58,Self-Pay,Improved,Yes,2
+P0248,18,Female,East,08-01-2023,18-01-2023,Oncology,Hypertension,159176.74,Self-Pay,Improved,Yes,4
+P0249,83,Female,East,23-05-2023,31-05-2023,Neurology,Hypertension,96359.85,Government,Recovered,Yes,1
+P0250,57,Male,South,12-08-2023,16-08-2023,General Medicine,Fracture,36837.57,Government,Critical,Yes,1
+P0251,77,Male,East,02-07-2023,11-07-2023,Pediatrics,Heart Disease,152311.72,Government,Recovered,Yes,5
+P0252,35,Male,West,09-09-2023,23-09-2023,Cardiology,Heart Disease,108017.66,Private,Critical,Yes,1
+P0253,64,Male,West,14-02-2023,20-02-2023,Orthopedics,Migraine,110194.65,Government,Critical,Yes,3
+P0254,56,Female,North,06-02-2023,12-02-2023,Oncology,Asthma,40350.13,Private,Recovered,Yes,3
+P0255,57,Female,East,24-02-2023,26-02-2023,Orthopedics,Heart Disease,134328.47,Self-Pay,Critical,No,3
+P0256,61,Male,West,25-04-2023,07-05-2023,Neurology,Cancer,14319.05,Self-Pay,Improved,No,1
+P0257,43,Male,East,16-05-2023,22-05-2023,General Medicine,Migraine,154994.26,Self-Pay,Critical,No,4
+P0258,85,Female,West,25-02-2023,07-03-2023,Neurology,Asthma,96756.32,Self-Pay,Improved,No,3
+P0259,72,Male,East,07-12-2023,21-12-2023,Neurology,Asthma,115337.25,Private,Critical,Yes,5
+P0260,81,Female,West,14-11-2023,27-11-2023,Orthopedics,Migraine,169700.93,Government,Critical,Yes,5
+P0261,80,Female,South,10-12-2023,22-12-2023,Pediatrics,Hypertension,113244.29,Private,Recovered,Yes,2
+P0262,38,Female,West,28-04-2023,30-04-2023,General Medicine,Fracture,110177.78,Government,Improved,No,3
+P0263,76,Female,East,28-10-2023,04-11-2023,Oncology,Diabetes,157490.69,Self-Pay,Improved,No,3
+P0264,21,Female,South,14-05-2023,22-05-2023,Orthopedics,Asthma,154742.26,Self-Pay,Improved,Yes,3
+P0265,69,Male,West,12-07-2023,16-07-2023,Neurology,Heart Disease,123244.72,Government,Critical,No,2
+P0266,27,Male,West,17-02-2023,03-03-2023,Orthopedics,Migraine,53197.86,Government,Critical,Yes,5
+P0267,42,Male,North,06-04-2023,21-04-2023,Pediatrics,Fracture,138268.88,Government,Improved,No,1
+P0268,26,Female,South,15-06-2023,24-06-2023,Oncology,Heart Disease,116973.71,Government,Improved,Yes,3
+P0269,66,Male,South,03-06-2023,06-06-2023,Orthopedics,Migraine,141418.08,Government,Improved,No,2
+P0270,66,Female,South,30-06-2023,08-07-2023,Cardiology,Hypertension,132211.22,Private,Recovered,No,2
+P0271,47,Female,East,08-07-2023,23-07-2023,Neurology,Heart Disease,39680.65,Private,Critical,No,1
+P0272,75,Male,West,10-07-2023,17-07-2023,Neurology,Asthma,160983.03,Self-Pay,Improved,No,3
+P0273,42,Male,West,13-11-2023,23-11-2023,General Medicine,Migraine,97808.24,Private,Critical,Yes,3
+P0274,20,Male,South,26-05-2023,31-05-2023,Neurology,Cancer,108650.98,Self-Pay,Critical,No,4
+P0275,68,Male,West,17-09-2023,26-09-2023,Oncology,Cancer,133711.36,Government,Recovered,No,5
+P0276,65,Male,East,17-09-2023,22-09-2023,Neurology,Cancer,23443.9,Government,Recovered,No,4
+P0277,56,Male,East,15-09-2023,16-09-2023,Neurology,Diabetes,152999.99,Government,Recovered,No,4
+P0278,73,Female,South,27-09-2023,10-10-2023,Neurology,Asthma,67757.92,Self-Pay,Improved,No,4
+P0279,32,Male,North,06-02-2023,07-02-2023,Oncology,Cancer,171910.22,Self-Pay,Critical,Yes,4
+P0280,64,Male,East,26-07-2023,27-07-2023,Pediatrics,Diabetes,63588.05,Self-Pay,Critical,No,5
+P0281,48,Male,North,02-10-2023,14-10-2023,Oncology,Heart Disease,154733.29,Government,Improved,No,3
+P0282,80,Male,North,16-04-2023,27-04-2023,General Medicine,Migraine,116345.56,Government,Recovered,Yes,4
+P0283,27,Female,North,15-05-2023,30-05-2023,Cardiology,Fracture,108845.52,Self-Pay,Recovered,Yes,5
+P0284,29,Male,North,07-02-2023,10-02-2023,Orthopedics,Asthma,102554.65,Government,Recovered,No,3
+P0285,55,Female,North,09-04-2023,18-04-2023,Oncology,Fracture,152600.85,Self-Pay,Critical,No,2
+P0286,25,Male,South,07-06-2023,19-06-2023,Neurology,Diabetes,70233.9,Self-Pay,Recovered,No,5
+P0287,48,Male,West,03-02-2023,15-02-2023,Neurology,Heart Disease,42032.85,Government,Improved,Yes,1
+P0288,58,Female,North,06-02-2023,18-02-2023,Pediatrics,Migraine,125060.68,Self-Pay,Improved,No,5
+P0289,42,Male,East,19-04-2023,27-04-2023,Oncology,Heart Disease,23851.43,Government,Critical,No,3
+P0290,82,Female,South,02-04-2023,08-04-2023,Orthopedics,Fracture,12109.43,Government,Recovered,No,2
+P0291,38,Male,North,23-05-2023,27-05-2023,Neurology,Diabetes,119436.89,Government,Improved,Yes,5
+P0292,56,Female,East,12-02-2023,16-02-2023,Pediatrics,Cancer,86639.13,Self-Pay,Improved,No,1
+P0293,22,Female,North,10-03-2023,14-03-2023,Pediatrics,Hypertension,144766.99,Self-Pay,Improved,Yes,1
+P0294,82,Male,West,06-07-2023,13-07-2023,Pediatrics,Migraine,125080.29,Private,Improved,Yes,5
+P0295,46,Female,South,03-12-2023,15-12-2023,Oncology,Asthma,95475.2,Private,Critical,No,1
+P0296,43,Male,North,07-02-2023,22-02-2023,Neurology,Diabetes,133289.75,Self-Pay,Critical,Yes,5
+P0297,53,Male,East,01-08-2023,10-08-2023,General Medicine,Hypertension,81641.41,Self-Pay,Critical,No,1
+P0298,43,Male,East,08-08-2023,18-08-2023,General Medicine,Migraine,44768.86,Government,Improved,No,5
+P0299,68,Female,South,28-03-2023,09-04-2023,Pediatrics,Hypertension,35008.5,Government,Improved,Yes,4
+P0300,44,Female,North,22-08-2023,02-09-2023,General Medicine,Hypertension,18937.76,Self-Pay,Improved,No,4
+P0301,19,Female,East,08-06-2023,17-06-2023,Pediatrics,Asthma,73203.71,Private,Critical,Yes,2
+P0302,46,Male,North,31-05-2023,09-06-2023,Oncology,Asthma,168127.22,Government,Critical,Yes,1
+P0303,45,Male,East,12-01-2023,16-01-2023,Neurology,Fracture,109062.66,Self-Pay,Recovered,Yes,2
+P0304,42,Female,North,15-02-2023,17-02-2023,Neurology,Migraine,17987.21,Government,Critical,No,5
+P0305,26,Male,South,14-11-2023,17-11-2023,Pediatrics,Heart Disease,43178.78,Private,Improved,No,5
+P0306,62,Female,West,04-03-2023,15-03-2023,Neurology,Heart Disease,123639.55,Government,Improved,No,4
+P0307,57,Female,South,28-01-2023,10-02-2023,Pediatrics,Fracture,58883.14,Private,Improved,Yes,3
+P0308,50,Male,West,30-05-2023,09-06-2023,General Medicine,Hypertension,199972.9,Self-Pay,Recovered,No,3
+P0309,65,Male,North,13-01-2023,18-01-2023,Neurology,Asthma,71073.54,Self-Pay,Improved,No,3
+P0310,71,Male,West,19-03-2023,02-04-2023,Neurology,Hypertension,107133.08,Government,Recovered,Yes,3
+P0311,40,Male,South,18-03-2023,01-04-2023,General Medicine,Cancer,162162.7,Private,Critical,Yes,3
+P0312,37,Male,South,21-11-2023,22-11-2023,Orthopedics,Cancer,169948.76,Private,Critical,Yes,5
+P0313,62,Female,East,29-09-2023,09-10-2023,Orthopedics,Diabetes,121201.16,Private,Critical,No,4
+P0314,75,Female,East,06-04-2023,09-04-2023,Cardiology,Diabetes,62127.08,Private,Improved,Yes,3
+P0315,47,Male,East,03-01-2023,18-01-2023,Neurology,Heart Disease,124892.19,Government,Recovered,No,3
+P0316,29,Male,North,16-10-2023,25-10-2023,Orthopedics,Migraine,170816.08,Private,Improved,No,3
+P0317,52,Female,North,26-12-2023,04-01-2024,Neurology,Diabetes,10962,Self-Pay,Critical,No,2
+P0318,56,Female,East,11-11-2023,16-11-2023,General Medicine,Migraine,45241.67,Self-Pay,Improved,Yes,3
+P0319,42,Male,North,25-04-2023,05-05-2023,General Medicine,Hypertension,172819.44,Self-Pay,Critical,No,1
+P0320,41,Male,East,01-01-2023,16-01-2023,General Medicine,Heart Disease,15496.68,Government,Critical,Yes,5
+P0321,45,Female,West,22-11-2023,26-11-2023,Cardiology,Asthma,97757.24,Self-Pay,Improved,Yes,3
+P0322,26,Female,East,06-01-2023,11-01-2023,General Medicine,Asthma,96305.29,Self-Pay,Improved,No,4
+P0323,83,Female,East,26-02-2023,03-03-2023,Neurology,Asthma,35709.23,Private,Recovered,Yes,4
+P0324,20,Female,East,20-12-2023,28-12-2023,Pediatrics,Heart Disease,42965.15,Government,Improved,Yes,1
+P0325,49,Male,East,20-04-2023,23-04-2023,Oncology,Hypertension,143771.08,Self-Pay,Critical,No,2
+P0326,41,Male,East,10-07-2023,19-07-2023,Orthopedics,Cancer,107711.26,Self-Pay,Critical,Yes,3
+P0327,83,Male,East,01-08-2023,02-08-2023,Cardiology,Asthma,108962.33,Government,Critical,Yes,2
+P0328,24,Female,South,12-01-2023,19-01-2023,Neurology,Heart Disease,122053.51,Private,Critical,Yes,3
+P0329,22,Female,South,23-07-2023,25-07-2023,Neurology,Hypertension,93024.68,Self-Pay,Critical,Yes,5
+P0330,56,Female,South,05-12-2023,12-12-2023,Oncology,Diabetes,61062.29,Private,Recovered,No,1
+P0331,42,Female,North,18-07-2023,27-07-2023,General Medicine,Cancer,143494.55,Private,Improved,Yes,2
+P0332,68,Female,North,26-07-2023,08-08-2023,Pediatrics,Fracture,51284.71,Government,Recovered,Yes,2
+P0333,51,Male,South,11-01-2023,20-01-2023,Neurology,Fracture,111429.98,Self-Pay,Improved,No,5
+P0334,23,Male,South,04-09-2023,09-09-2023,Cardiology,Fracture,116750.66,Government,Improved,Yes,5
+P0335,50,Male,South,18-02-2023,03-03-2023,Cardiology,Heart Disease,181223.86,Private,Recovered,Yes,5
+P0336,38,Female,South,22-01-2023,02-02-2023,General Medicine,Diabetes,114808.21,Self-Pay,Recovered,No,5
+P0337,36,Male,North,18-07-2023,31-07-2023,Orthopedics,Asthma,16420.74,Government,Improved,Yes,1
+P0338,73,Male,South,25-12-2023,05-01-2024,Orthopedics,Asthma,44631.21,Self-Pay,Recovered,No,5
+P0339,65,Female,West,02-02-2023,16-02-2023,Pediatrics,Migraine,62029.06,Self-Pay,Improved,Yes,4
+P0340,45,Female,West,19-04-2023,20-04-2023,Neurology,Cancer,54122.39,Private,Critical,Yes,3
+P0341,31,Female,West,13-05-2023,20-05-2023,Pediatrics,Heart Disease,188220.94,Private,Improved,Yes,3
+P0342,18,Female,West,30-12-2023,04-01-2024,Cardiology,Migraine,191686.33,Government,Recovered,No,2
+P0343,85,Female,North,16-06-2023,27-06-2023,Oncology,Migraine,72856.21,Self-Pay,Recovered,Yes,5
+P0344,71,Female,East,04-10-2023,18-10-2023,Neurology,Cancer,192701.62,Government,Improved,Yes,3
+P0345,38,Male,East,16-04-2023,26-04-2023,Orthopedics,Migraine,160570.53,Private,Recovered,No,5
+P0346,57,Male,West,14-07-2023,26-07-2023,Cardiology,Migraine,5990.86,Private,Recovered,No,1
+P0347,26,Male,North,02-09-2023,05-09-2023,Pediatrics,Cancer,173813.06,Private,Improved,Yes,1
+P0348,64,Female,West,03-09-2023,18-09-2023,General Medicine,Asthma,110079.64,Private,Improved,Yes,1
+P0349,69,Female,West,22-03-2023,04-04-2023,Orthopedics,Heart Disease,58890.83,Self-Pay,Recovered,No,4
+P0350,49,Male,North,19-04-2023,01-05-2023,Oncology,Hypertension,121175.93,Private,Recovered,Yes,2
+P0351,49,Male,North,29-07-2023,08-08-2023,Oncology,Diabetes,57377.87,Private,Recovered,No,1
+P0352,55,Male,East,20-03-2023,22-03-2023,Orthopedics,Hypertension,15966.79,Self-Pay,Recovered,Yes,5
+P0353,47,Male,South,30-04-2023,12-05-2023,Pediatrics,Fracture,105016.24,Self-Pay,Critical,No,4
+P0354,55,Female,East,26-06-2023,30-06-2023,General Medicine,Hypertension,105291.89,Government,Improved,Yes,1
+P0355,68,Male,East,06-12-2023,20-12-2023,Oncology,Heart Disease,92378.96,Government,Critical,No,2
+P0356,50,Male,West,20-10-2023,23-10-2023,Orthopedics,Fracture,16755.31,Self-Pay,Critical,No,3
+P0357,51,Male,East,03-10-2023,06-10-2023,General Medicine,Asthma,83356.97,Private,Recovered,No,2
+P0358,77,Female,West,23-12-2023,04-01-2024,Cardiology,Asthma,83432.95,Private,Recovered,No,1
+P0359,79,Male,North,20-01-2023,23-01-2023,Orthopedics,Cancer,173401.18,Government,Critical,Yes,3
+P0360,31,Male,East,29-12-2023,08-01-2024,Pediatrics,Fracture,128916.04,Self-Pay,Recovered,No,2
+P0361,51,Female,East,05-12-2023,12-12-2023,Oncology,Fracture,80849.18,Private,Improved,No,1
+P0362,28,Female,West,11-01-2023,19-01-2023,Oncology,Migraine,73735.38,Self-Pay,Improved,Yes,2
+P0363,51,Female,South,15-09-2023,17-09-2023,Orthopedics,Migraine,181665.81,Private,Critical,No,1
+P0364,39,Male,South,11-11-2023,25-11-2023,Cardiology,Fracture,69286.7,Private,Recovered,Yes,2
+P0365,36,Female,South,13-04-2023,22-04-2023,Cardiology,Fracture,199253.62,Private,Improved,Yes,3
+P0366,42,Male,East,26-07-2023,27-07-2023,Neurology,Heart Disease,77491.03,Government,Recovered,No,4
+P0367,32,Male,East,28-02-2023,02-03-2023,Orthopedics,Fracture,189009,Private,Recovered,Yes,3
+P0368,77,Female,West,16-11-2023,28-11-2023,Cardiology,Fracture,11096.02,Self-Pay,Critical,No,1
+P0369,43,Male,North,09-01-2023,23-01-2023,Cardiology,Cancer,115293.38,Private,Critical,No,1
+P0370,24,Female,South,30-06-2023,04-07-2023,Cardiology,Diabetes,190904.22,Government,Improved,No,1
+P0371,39,Male,West,18-07-2023,24-07-2023,Pediatrics,Diabetes,19674.14,Private,Recovered,No,4
+P0372,65,Male,West,01-05-2023,09-05-2023,Oncology,Cancer,199145.2,Government,Recovered,No,4
+P0373,35,Female,East,28-10-2023,31-10-2023,Orthopedics,Migraine,125936.36,Self-Pay,Improved,Yes,3
+P0374,57,Female,North,28-08-2023,02-09-2023,General Medicine,Cancer,175170.3,Government,Critical,Yes,4
+P0375,78,Female,West,23-06-2023,04-07-2023,Cardiology,Migraine,17634.45,Government,Improved,No,4
+P0376,76,Male,South,21-02-2023,01-03-2023,Neurology,Heart Disease,28709.96,Private,Improved,No,5
+P0377,19,Male,West,13-09-2023,26-09-2023,Oncology,Asthma,187328.65,Government,Recovered,Yes,2
+P0378,22,Male,North,22-02-2023,07-03-2023,General Medicine,Asthma,180670.62,Self-Pay,Improved,No,2
+P0379,70,Male,West,08-05-2023,22-05-2023,Pediatrics,Fracture,173354.13,Government,Recovered,No,3
+P0380,27,Male,East,01-08-2023,07-08-2023,General Medicine,Hypertension,5979.59,Private,Improved,No,2
+P0381,31,Male,South,28-01-2023,30-01-2023,Oncology,Cancer,161604.94,Private,Critical,No,4
+P0382,74,Female,West,08-10-2023,23-10-2023,General Medicine,Cancer,5135.9,Self-Pay,Critical,Yes,1
+P0383,67,Male,East,18-12-2023,22-12-2023,Oncology,Asthma,53187.1,Private,Improved,No,3
+P0384,85,Female,West,01-07-2023,03-07-2023,Cardiology,Asthma,62861.88,Self-Pay,Improved,No,3
+P0385,43,Male,East,06-02-2023,11-02-2023,Pediatrics,Asthma,189487.35,Government,Critical,Yes,1
+P0386,42,Female,South,23-08-2023,03-09-2023,Pediatrics,Hypertension,101450.12,Government,Recovered,Yes,4
+P0387,34,Female,North,31-08-2023,03-09-2023,Pediatrics,Hypertension,131509.81,Private,Critical,No,1
+P0388,57,Female,West,16-04-2023,23-04-2023,Cardiology,Hypertension,149458.14,Private,Recovered,No,2
+P0389,28,Female,South,03-05-2023,06-05-2023,Neurology,Asthma,161834.97,Government,Critical,No,1
+P0390,38,Male,West,07-02-2023,16-02-2023,General Medicine,Heart Disease,94970.51,Self-Pay,Critical,Yes,2
+P0391,61,Male,South,21-04-2023,06-05-2023,Oncology,Diabetes,36262.16,Government,Critical,Yes,5
+P0392,72,Male,West,06-04-2023,16-04-2023,Neurology,Hypertension,164304.83,Government,Critical,Yes,4
+P0393,21,Female,North,19-11-2023,27-11-2023,Pediatrics,Diabetes,31994.59,Private,Recovered,No,3
+P0394,42,Female,West,25-08-2023,01-09-2023,Neurology,Migraine,196685.51,Government,Recovered,Yes,4
+P0395,82,Female,East,03-12-2023,06-12-2023,Orthopedics,Migraine,95216.82,Private,Recovered,No,5
+P0396,22,Male,South,21-03-2023,25-03-2023,Neurology,Diabetes,23376.38,Government,Critical,Yes,5
+P0397,48,Female,South,24-09-2023,27-09-2023,Orthopedics,Diabetes,29297.3,Self-Pay,Improved,Yes,4
+P0398,52,Male,West,20-06-2023,03-07-2023,Cardiology,Hypertension,5985.8,Government,Critical,No,4
+P0399,28,Female,East,21-04-2023,02-05-2023,Orthopedics,Migraine,134795,Government,Recovered,Yes,1
+P0400,63,Male,West,29-01-2023,01-02-2023,Pediatrics,Migraine,179162.03,Government,Improved,Yes,1
+P0401,73,Female,South,21-01-2023,05-02-2023,General Medicine,Diabetes,173514.66,Private,Improved,Yes,4
+P0402,25,Male,South,07-02-2023,11-02-2023,Pediatrics,Heart Disease,86128.87,Government,Improved,No,4
+P0403,51,Male,South,12-10-2023,23-10-2023,Cardiology,Cancer,127852.2,Self-Pay,Improved,No,5
+P0404,85,Male,North,31-07-2023,05-08-2023,General Medicine,Cancer,45195.61,Government,Improved,No,2
+P0405,57,Male,East,15-12-2023,27-12-2023,Cardiology,Migraine,8508.82,Self-Pay,Improved,Yes,5
+P0406,69,Female,East,16-03-2023,17-03-2023,Neurology,Cancer,38012.17,Government,Critical,No,2
+P0407,68,Male,North,19-12-2023,28-12-2023,Oncology,Diabetes,41561.94,Private,Recovered,No,3
+P0408,52,Male,West,07-03-2023,16-03-2023,Cardiology,Hypertension,134357.95,Government,Critical,Yes,1
+P0409,44,Female,East,14-08-2023,19-08-2023,Cardiology,Hypertension,52321.46,Government,Improved,No,5
+P0410,27,Male,East,04-01-2023,15-01-2023,Pediatrics,Migraine,50489.7,Self-Pay,Improved,Yes,1
+P0411,36,Female,East,07-07-2023,10-07-2023,Pediatrics,Asthma,126125.94,Self-Pay,Critical,Yes,1
+P0412,57,Female,South,01-05-2023,14-05-2023,Neurology,Cancer,98750.9,Government,Recovered,Yes,1
+P0413,45,Male,North,12-10-2023,25-10-2023,Oncology,Diabetes,6359,Private,Improved,Yes,3
+P0414,24,Male,East,26-07-2023,27-07-2023,Orthopedics,Heart Disease,120479.71,Private,Critical,No,1
+P0415,84,Female,West,15-01-2023,16-01-2023,Neurology,Migraine,72544.61,Government,Critical,Yes,3
+P0416,27,Male,North,23-12-2023,02-01-2024,Neurology,Heart Disease,46324.25,Private,Improved,Yes,1
+P0417,76,Male,East,02-11-2023,16-11-2023,Orthopedics,Diabetes,16115.84,Self-Pay,Recovered,No,1
+P0418,58,Male,North,15-01-2023,27-01-2023,General Medicine,Cancer,31796.68,Private,Critical,No,3
+P0419,44,Male,West,14-03-2023,21-03-2023,Oncology,Asthma,91228.17,Self-Pay,Critical,Yes,1
+P0420,63,Female,East,08-03-2023,11-03-2023,Neurology,Fracture,36451.29,Self-Pay,Critical,Yes,1
+P0421,36,Male,North,24-11-2023,06-12-2023,Neurology,Asthma,123520.65,Private,Critical,No,5
+P0422,28,Male,East,21-10-2023,03-11-2023,Neurology,Heart Disease,20148.91,Private,Critical,Yes,4
+P0423,74,Male,North,17-09-2023,23-09-2023,General Medicine,Fracture,50822.98,Government,Improved,No,2
+P0424,57,Female,West,28-10-2023,29-10-2023,General Medicine,Fracture,57405.13,Government,Recovered,No,5
+P0425,58,Male,South,16-07-2023,26-07-2023,Oncology,Migraine,185278.97,Self-Pay,Critical,No,4
+P0426,80,Male,West,04-12-2023,19-12-2023,Oncology,Cancer,136891.5,Private,Improved,Yes,1
+P0427,44,Female,North,07-10-2023,14-10-2023,General Medicine,Diabetes,22661.69,Self-Pay,Critical,Yes,5
+P0428,31,Female,West,19-11-2023,27-11-2023,Neurology,Hypertension,150093.53,Private,Critical,No,4
+P0429,31,Female,South,21-04-2023,06-05-2023,Neurology,Migraine,36783.12,Private,Improved,Yes,4
+P0430,76,Female,East,27-06-2023,03-07-2023,Pediatrics,Asthma,176591.26,Government,Critical,Yes,2
+P0431,58,Male,North,12-09-2023,23-09-2023,Pediatrics,Diabetes,90990.39,Private,Improved,No,1
+P0432,66,Female,West,08-01-2023,20-01-2023,Pediatrics,Migraine,40624.18,Government,Recovered,Yes,1
+P0433,35,Female,North,13-04-2023,27-04-2023,Pediatrics,Hypertension,43306.25,Private,Recovered,Yes,5
+P0434,25,Male,North,26-01-2023,02-02-2023,General Medicine,Fracture,91732.84,Private,Improved,No,3
+P0435,62,Female,East,14-04-2023,15-04-2023,Neurology,Diabetes,167963.68,Private,Critical,No,5
+P0436,28,Female,South,10-10-2023,23-10-2023,Oncology,Hypertension,183164.92,Government,Critical,No,5
+P0437,26,Female,East,05-04-2023,12-04-2023,Cardiology,Hypertension,119436.02,Government,Recovered,Yes,5
+P0438,27,Female,West,04-04-2023,15-04-2023,General Medicine,Cancer,197543.42,Self-Pay,Improved,No,5
+P0439,78,Female,South,11-04-2023,20-04-2023,Pediatrics,Heart Disease,71763.2,Self-Pay,Improved,No,1
+P0440,81,Female,East,10-11-2023,11-11-2023,Pediatrics,Fracture,68125.35,Private,Recovered,Yes,1
+P0441,27,Male,North,10-08-2023,12-08-2023,Neurology,Asthma,50511.75,Government,Improved,Yes,4
+P0442,72,Male,North,29-06-2023,03-07-2023,General Medicine,Cancer,33834.74,Government,Recovered,Yes,5
+P0443,50,Male,North,20-12-2023,01-01-2024,Oncology,Diabetes,30999.12,Government,Improved,No,3
+P0444,37,Male,North,28-06-2023,11-07-2023,Neurology,Migraine,197047.03,Government,Improved,Yes,5
+P0445,69,Female,South,09-12-2023,17-12-2023,Orthopedics,Migraine,96705.14,Government,Improved,No,5
+P0446,57,Female,East,12-01-2023,17-01-2023,Pediatrics,Fracture,37378.82,Government,Improved,No,4
+P0447,79,Male,North,09-07-2023,18-07-2023,General Medicine,Migraine,94263.98,Private,Improved,Yes,5
+P0448,57,Female,West,04-04-2023,17-04-2023,General Medicine,Heart Disease,133669.56,Self-Pay,Recovered,No,2
+P0449,48,Female,East,20-10-2023,02-11-2023,General Medicine,Cancer,38238.4,Private,Improved,No,3
+P0450,63,Female,West,20-08-2023,28-08-2023,Oncology,Hypertension,53016.16,Private,Recovered,No,1
+P0451,84,Male,West,27-07-2023,06-08-2023,Pediatrics,Heart Disease,196765.26,Self-Pay,Improved,No,1
+P0452,20,Male,South,07-10-2023,20-10-2023,General Medicine,Migraine,104715.92,Private,Recovered,Yes,1
+P0453,35,Male,North,06-02-2023,11-02-2023,Pediatrics,Asthma,32222.64,Self-Pay,Critical,No,3
+P0454,84,Male,South,23-04-2023,24-04-2023,Oncology,Heart Disease,27223.65,Self-Pay,Improved,No,3
+P0455,54,Female,South,08-08-2023,12-08-2023,Neurology,Fracture,10895.21,Self-Pay,Recovered,Yes,1
+P0456,68,Male,North,12-05-2023,15-05-2023,Oncology,Hypertension,6515.68,Self-Pay,Improved,Yes,2
+P0457,66,Male,South,11-04-2023,22-04-2023,General Medicine,Diabetes,27861.1,Government,Critical,No,3
+P0458,73,Female,South,22-04-2023,26-04-2023,Cardiology,Diabetes,123146.76,Private,Critical,No,1
+P0459,59,Female,East,03-06-2023,14-06-2023,General Medicine,Hypertension,88818.73,Self-Pay,Recovered,Yes,5
+P0460,64,Male,South,17-04-2023,20-04-2023,Pediatrics,Diabetes,89485.62,Self-Pay,Improved,No,5
+P0461,72,Male,East,10-11-2023,17-11-2023,General Medicine,Asthma,129883.2,Self-Pay,Critical,No,2
+P0462,24,Female,North,15-04-2023,25-04-2023,General Medicine,Asthma,118740.91,Private,Improved,Yes,5
+P0463,28,Male,East,23-02-2023,02-03-2023,General Medicine,Fracture,138686.55,Private,Recovered,No,3
+P0464,83,Male,North,01-06-2023,03-06-2023,General Medicine,Cancer,44539.8,Private,Improved,No,2
+P0465,70,Male,South,21-11-2023,02-12-2023,Neurology,Migraine,115050.32,Private,Improved,No,4
+P0466,73,Male,South,04-11-2023,08-11-2023,Cardiology,Heart Disease,64910.7,Self-Pay,Recovered,Yes,5
+P0467,75,Male,South,21-12-2023,30-12-2023,Orthopedics,Asthma,154830.47,Private,Critical,No,5
+P0468,20,Male,South,26-11-2023,11-12-2023,Oncology,Hypertension,197791.74,Government,Recovered,No,3
+P0469,80,Female,South,13-05-2023,23-05-2023,Neurology,Cancer,31353.66,Self-Pay,Critical,Yes,1
+P0470,79,Male,South,06-10-2023,09-10-2023,Orthopedics,Heart Disease,86426.15,Private,Critical,Yes,2
+P0471,73,Male,West,15-09-2023,17-09-2023,Oncology,Hypertension,180791.52,Private,Critical,No,3
+P0472,24,Male,South,15-06-2023,24-06-2023,Cardiology,Hypertension,19893.76,Private,Critical,No,5
+P0473,40,Male,North,16-06-2023,01-07-2023,General Medicine,Asthma,181538.13,Government,Improved,Yes,5
+P0474,22,Male,South,14-03-2023,24-03-2023,Pediatrics,Hypertension,50100.36,Self-Pay,Recovered,Yes,2
+P0475,44,Female,South,10-03-2023,23-03-2023,Cardiology,Heart Disease,56786.55,Government,Improved,No,3
+P0476,73,Female,West,01-07-2023,16-07-2023,General Medicine,Diabetes,185797.84,Private,Critical,Yes,1
+P0477,83,Female,South,08-04-2023,18-04-2023,Pediatrics,Fracture,62672.68,Government,Critical,Yes,1
+P0478,45,Female,East,28-03-2023,08-04-2023,Neurology,Migraine,169528.52,Government,Improved,Yes,5
+P0479,72,Female,East,15-07-2023,16-07-2023,Oncology,Fracture,64741.33,Government,Improved,No,1
+P0480,46,Male,East,28-01-2023,04-02-2023,Pediatrics,Fracture,192524.56,Private,Critical,Yes,2
+P0481,74,Male,East,11-03-2023,21-03-2023,Neurology,Asthma,66264.01,Self-Pay,Recovered,Yes,1
+P0482,30,Male,South,26-12-2023,01-01-2024,Pediatrics,Migraine,35060.77,Private,Critical,No,2
+P0483,81,Female,South,12-05-2023,18-05-2023,Orthopedics,Hypertension,95320.33,Private,Recovered,No,2
+P0484,41,Female,North,09-11-2023,16-11-2023,Cardiology,Asthma,79098.94,Government,Improved,No,1
+P0485,34,Male,North,04-05-2023,13-05-2023,Orthopedics,Heart Disease,70413.3,Private,Improved,No,1
+P0486,72,Female,East,21-01-2023,04-02-2023,Oncology,Heart Disease,125966.17,Government,Critical,No,5
+P0487,30,Male,West,01-10-2023,05-10-2023,Oncology,Cancer,15823.37,Private,Recovered,No,5
+P0488,72,Female,East,19-04-2023,03-05-2023,Oncology,Hypertension,81834.14,Private,Recovered,No,3
+P0489,74,Female,North,10-01-2023,17-01-2023,Pediatrics,Fracture,174890.56,Private,Improved,No,3
+P0490,63,Female,East,29-03-2023,13-04-2023,General Medicine,Fracture,75064.2,Self-Pay,Critical,Yes,1
+P0491,37,Female,West,08-07-2023,10-07-2023,General Medicine,Fracture,170061,Self-Pay,Recovered,Yes,3
+P0492,53,Female,South,26-06-2023,04-07-2023,Orthopedics,Diabetes,42579.14,Self-Pay,Improved,No,4
+P0493,54,Male,North,18-09-2023,03-10-2023,Cardiology,Cancer,22763.94,Government,Critical,No,2
+P0494,56,Male,East,26-07-2023,27-07-2023,Orthopedics,Fracture,176007.41,Private,Recovered,No,1
+P0495,57,Male,North,24-08-2023,26-08-2023,Cardiology,Hypertension,22167.39,Government,Improved,No,4
+P0496,83,Male,South,05-05-2023,14-05-2023,General Medicine,Fracture,63903.3,Private,Improved,Yes,1
+P0497,64,Female,North,18-12-2023,19-12-2023,General Medicine,Cancer,151520.42,Private,Critical,Yes,2
+P0498,58,Female,North,14-07-2023,22-07-2023,General Medicine,Migraine,25649.24,Self-Pay,Improved,No,4
+P0499,23,Male,East,24-03-2023,28-03-2023,Pediatrics,Hypertension,15249.66,Private,Critical,Yes,2
+P0500,76,Male,North,29-12-2023,11-01-2024,Cardiology,Diabetes,8635.01,Government,Improved,No,3
+P0501,42,Female,East,27-04-2023,02-05-2023,Orthopedics,Diabetes,157968.18,Government,Recovered,No,3
+P0502,39,Male,North,25-12-2023,28-12-2023,Neurology,Heart Disease,111445.05,Private,Recovered,Yes,3
+P0503,47,Female,East,05-08-2023,10-08-2023,Oncology,Hypertension,97614.32,Self-Pay,Recovered,No,1
+P0504,84,Female,East,15-09-2023,29-09-2023,Orthopedics,Heart Disease,31913.16,Private,Recovered,Yes,4
+P0505,58,Male,North,15-11-2023,22-11-2023,Pediatrics,Hypertension,44047.73,Government,Critical,Yes,3
+P0506,60,Female,North,25-03-2023,31-03-2023,Neurology,Diabetes,67218.65,Government,Recovered,No,5
+P0507,59,Female,West,16-02-2023,01-03-2023,Pediatrics,Cancer,108819.39,Private,Critical,Yes,3
+P0508,62,Male,South,30-10-2023,02-11-2023,Neurology,Heart Disease,133009.33,Self-Pay,Improved,Yes,5
+P0509,75,Female,West,01-05-2023,07-05-2023,Pediatrics,Diabetes,187968.63,Private,Recovered,Yes,2
+P0510,61,Male,West,02-04-2023,16-04-2023,Neurology,Diabetes,164857.78,Private,Critical,Yes,4
+P0511,34,Female,West,17-11-2023,02-12-2023,Orthopedics,Diabetes,14159.06,Self-Pay,Recovered,Yes,3
+P0512,80,Male,North,12-10-2023,25-10-2023,General Medicine,Cancer,54011.39,Private,Recovered,Yes,4
+P0513,34,Male,West,14-02-2023,26-02-2023,Oncology,Cancer,107947.3,Private,Critical,Yes,5
+P0514,19,Female,West,28-06-2023,05-07-2023,Orthopedics,Diabetes,85138.44,Government,Recovered,No,1
+P0515,79,Female,East,08-07-2023,12-07-2023,Oncology,Fracture,120160.68,Government,Critical,No,1
+P0516,57,Male,South,02-09-2023,05-09-2023,Pediatrics,Diabetes,87887.69,Government,Recovered,Yes,5
+P0517,40,Female,East,09-01-2023,14-01-2023,Neurology,Cancer,167679.5,Government,Improved,Yes,2
+P0518,21,Male,South,17-08-2023,01-09-2023,General Medicine,Heart Disease,13493.36,Government,Critical,Yes,5
+P0519,66,Male,North,12-04-2023,24-04-2023,General Medicine,Heart Disease,140161.83,Private,Critical,No,4
+P0520,41,Male,East,16-02-2023,21-02-2023,Neurology,Cancer,55824.46,Private,Recovered,Yes,3
+P0521,45,Female,South,25-12-2023,28-12-2023,Cardiology,Cancer,13548.82,Private,Improved,Yes,1
+P0522,47,Male,East,21-09-2023,23-09-2023,Oncology,Hypertension,126188.81,Government,Critical,No,2
+P0523,22,Female,North,25-02-2023,26-02-2023,Oncology,Heart Disease,150683.7,Government,Critical,Yes,2
+P0524,42,Male,South,22-03-2023,26-03-2023,General Medicine,Migraine,12150.27,Government,Recovered,No,2
+P0525,68,Male,East,10-02-2023,16-02-2023,Neurology,Migraine,7971.68,Private,Improved,Yes,1
+P0526,62,Female,South,21-03-2023,27-03-2023,General Medicine,Migraine,29719.81,Government,Recovered,Yes,4
+P0527,28,Female,West,19-06-2023,03-07-2023,General Medicine,Asthma,115362.25,Self-Pay,Recovered,Yes,1
+P0528,53,Female,East,18-06-2023,28-06-2023,General Medicine,Fracture,69511.34,Self-Pay,Critical,Yes,5
+P0529,73,Female,South,20-08-2023,03-09-2023,Oncology,Diabetes,139446.9,Government,Critical,Yes,2
+P0530,85,Male,South,11-07-2023,26-07-2023,Cardiology,Hypertension,46969.85,Private,Critical,No,4
+P0531,34,Female,West,02-10-2023,17-10-2023,Orthopedics,Diabetes,6466.93,Government,Critical,No,4
+P0532,56,Male,East,08-09-2023,09-09-2023,General Medicine,Cancer,84866.95,Self-Pay,Recovered,No,3
+P0533,74,Male,South,09-01-2023,22-01-2023,General Medicine,Fracture,123490.98,Government,Critical,Yes,1
+P0534,22,Male,North,13-06-2023,22-06-2023,Neurology,Hypertension,16840.72,Private,Critical,Yes,5
+P0535,68,Male,South,17-02-2023,20-02-2023,Oncology,Hypertension,57653.01,Self-Pay,Recovered,Yes,3
+P0536,30,Female,West,26-05-2023,06-06-2023,General Medicine,Diabetes,136310.36,Private,Critical,No,4
+P0537,43,Female,East,10-04-2023,21-04-2023,General Medicine,Asthma,87691.01,Government,Improved,Yes,4
+P0538,34,Female,West,12-02-2023,14-02-2023,Cardiology,Fracture,55598.94,Government,Improved,Yes,2
+P0539,35,Male,North,31-07-2023,07-08-2023,General Medicine,Fracture,98429.67,Private,Critical,No,1
+P0540,39,Male,East,15-06-2023,19-06-2023,Cardiology,Diabetes,23784.12,Government,Recovered,Yes,2
+P0541,24,Male,South,16-11-2023,23-11-2023,General Medicine,Cancer,55096.95,Private,Recovered,Yes,4
+P0542,57,Male,North,15-07-2023,17-07-2023,Cardiology,Hypertension,184254.34,Self-Pay,Recovered,No,3
+P0543,60,Male,North,27-02-2023,02-03-2023,Neurology,Diabetes,51081.96,Self-Pay,Improved,No,4
+P0544,43,Female,South,24-06-2023,05-07-2023,Cardiology,Diabetes,123065.27,Private,Critical,Yes,5
+P0545,61,Female,East,15-04-2023,30-04-2023,Orthopedics,Heart Disease,9290.63,Self-Pay,Critical,No,3
+P0546,40,Male,South,06-03-2023,09-03-2023,Cardiology,Asthma,20466.02,Private,Recovered,Yes,5
+P0547,75,Male,North,18-05-2023,28-05-2023,Orthopedics,Hypertension,164977.52,Government,Recovered,Yes,4
+P0548,83,Female,North,25-01-2023,28-01-2023,Pediatrics,Diabetes,6700.52,Self-Pay,Recovered,Yes,2
+P0549,22,Female,North,08-06-2023,11-06-2023,Pediatrics,Asthma,80641.73,Private,Recovered,No,3
+P0550,78,Female,East,24-10-2023,31-10-2023,Pediatrics,Asthma,159507.55,Self-Pay,Critical,No,2
+P0551,81,Female,West,07-07-2023,08-07-2023,General Medicine,Fracture,6897.38,Self-Pay,Improved,Yes,3
+P0552,64,Female,South,08-05-2023,11-05-2023,Neurology,Migraine,49082.14,Private,Improved,Yes,1
+P0553,39,Male,East,31-12-2023,03-01-2024,Neurology,Asthma,25387.24,Government,Critical,Yes,2
+P0554,48,Female,North,05-03-2023,20-03-2023,Orthopedics,Heart Disease,99020.02,Government,Recovered,Yes,3
+P0555,73,Male,North,25-10-2023,07-11-2023,Neurology,Fracture,56213.22,Government,Critical,Yes,2
+P0556,82,Male,East,10-12-2023,14-12-2023,Cardiology,Hypertension,79687.04,Private,Recovered,Yes,4
+P0557,63,Female,South,20-11-2023,28-11-2023,Orthopedics,Asthma,152952.06,Government,Improved,Yes,1
+P0558,58,Male,South,27-08-2023,30-08-2023,Oncology,Heart Disease,110670.38,Self-Pay,Critical,No,1
+P0559,55,Male,North,23-05-2023,06-06-2023,Oncology,Heart Disease,152711.77,Government,Critical,Yes,5
+P0560,42,Male,West,02-12-2023,14-12-2023,Neurology,Diabetes,106301.8,Self-Pay,Improved,Yes,4
+P0561,54,Male,East,03-08-2023,10-08-2023,Neurology,Asthma,98232.19,Private,Improved,Yes,3
+P0562,64,Male,South,09-11-2023,11-11-2023,Neurology,Hypertension,94478.29,Self-Pay,Improved,No,3
+P0563,79,Male,South,13-05-2023,18-05-2023,Oncology,Migraine,91586.21,Private,Improved,Yes,2
+P0564,63,Male,East,17-06-2023,28-06-2023,Cardiology,Cancer,38612.01,Government,Improved,No,2
+P0565,57,Female,West,09-07-2023,15-07-2023,Neurology,Migraine,100933.95,Private,Improved,No,5
+P0566,31,Male,North,02-03-2023,04-03-2023,Oncology,Hypertension,55996.65,Private,Critical,Yes,1
+P0567,41,Male,North,03-01-2023,17-01-2023,Cardiology,Asthma,35288.28,Self-Pay,Improved,No,4
+P0568,66,Female,North,08-06-2023,11-06-2023,Pediatrics,Hypertension,144979.76,Government,Improved,No,4
+P0569,76,Female,North,29-06-2023,08-07-2023,Neurology,Fracture,113817.08,Private,Critical,Yes,4
+P0570,25,Male,West,10-01-2023,19-01-2023,Orthopedics,Heart Disease,27910.25,Private,Improved,Yes,2
+P0571,35,Female,North,01-12-2023,04-12-2023,Pediatrics,Diabetes,100299.42,Government,Improved,No,4
+P0572,27,Male,North,01-01-2023,11-01-2023,Pediatrics,Fracture,83738.88,Private,Improved,No,4
+P0573,40,Male,North,26-12-2023,08-01-2024,General Medicine,Hypertension,35502.53,Private,Recovered,Yes,1
+P0574,68,Male,North,08-02-2023,21-02-2023,Cardiology,Heart Disease,123067.92,Private,Recovered,Yes,2
+P0575,55,Female,South,23-08-2023,03-09-2023,Pediatrics,Cancer,185197.58,Government,Recovered,No,4
+P0576,82,Male,East,30-01-2023,10-02-2023,Oncology,Migraine,6444,Self-Pay,Critical,No,3
+P0577,65,Female,South,29-03-2023,11-04-2023,Pediatrics,Heart Disease,61884.85,Self-Pay,Critical,No,2
+P0578,49,Female,West,25-02-2023,02-03-2023,Cardiology,Cancer,23560.86,Government,Critical,No,5
+P0579,37,Male,West,06-02-2023,13-02-2023,Pediatrics,Asthma,16358.97,Government,Improved,No,5
+P0580,26,Male,South,01-05-2023,06-05-2023,Neurology,Diabetes,155409.94,Self-Pay,Recovered,No,3
+P0581,26,Male,East,30-03-2023,10-04-2023,Oncology,Heart Disease,66597.26,Private,Recovered,No,5
+P0582,24,Female,East,11-03-2023,14-03-2023,Orthopedics,Diabetes,72759.86,Self-Pay,Recovered,No,1
+P0583,66,Female,West,14-05-2023,15-05-2023,General Medicine,Cancer,183653.96,Self-Pay,Critical,No,5
+P0584,79,Male,North,14-01-2023,23-01-2023,General Medicine,Diabetes,147685.55,Government,Improved,Yes,3
+P0585,77,Male,West,31-03-2023,08-04-2023,Orthopedics,Cancer,17107.77,Government,Critical,No,3
+P0586,41,Male,South,07-12-2023,22-12-2023,Orthopedics,Diabetes,82192.49,Self-Pay,Critical,No,5
+P0587,75,Female,South,22-06-2023,30-06-2023,Orthopedics,Migraine,92522.48,Self-Pay,Critical,No,2
+P0588,23,Female,South,08-05-2023,18-05-2023,Orthopedics,Hypertension,127265.28,Self-Pay,Improved,Yes,4
+P0589,42,Female,South,05-07-2023,10-07-2023,Orthopedics,Asthma,131882.35,Private,Recovered,No,4
+P0590,50,Female,West,14-09-2023,17-09-2023,Orthopedics,Heart Disease,111353.97,Government,Critical,Yes,3
+P0591,39,Female,South,15-09-2023,25-09-2023,Cardiology,Hypertension,23184.18,Government,Critical,No,2
+P0592,67,Male,North,22-04-2023,01-05-2023,Orthopedics,Asthma,76277.4,Private,Recovered,No,4
+P0593,32,Female,North,12-12-2023,24-12-2023,Pediatrics,Cancer,110061.89,Private,Recovered,Yes,1
+P0594,47,Female,South,08-07-2023,11-07-2023,Neurology,Migraine,80379.61,Self-Pay,Recovered,No,3
+P0595,25,Male,East,08-06-2023,22-06-2023,Orthopedics,Migraine,60042.46,Government,Critical,Yes,1
+P0596,41,Female,North,06-03-2023,12-03-2023,Cardiology,Migraine,108914.28,Government,Improved,Yes,5
+P0597,48,Female,East,17-04-2023,21-04-2023,Neurology,Asthma,34615.74,Private,Improved,Yes,2
+P0598,41,Male,West,31-10-2023,07-11-2023,General Medicine,Hypertension,41326.98,Private,Critical,Yes,2
+P0599,43,Male,East,08-09-2023,12-09-2023,Orthopedics,Fracture,66369.48,Self-Pay,Recovered,No,1
+P0600,49,Female,South,12-11-2023,24-11-2023,Oncology,Migraine,81744.44,Government,Improved,No,1
+P0601,41,Female,West,01-10-2023,08-10-2023,Oncology,Migraine,172355.32,Government,Critical,No,1
+P0602,85,Female,North,13-02-2023,21-02-2023,Neurology,Cancer,123864.05,Government,Recovered,No,2
+P0603,49,Female,South,20-11-2023,02-12-2023,Pediatrics,Diabetes,185144.94,Private,Critical,Yes,5
+P0604,53,Male,North,16-04-2023,19-04-2023,Cardiology,Migraine,186099.41,Private,Recovered,Yes,5
+P0605,72,Male,West,25-08-2023,08-09-2023,General Medicine,Fracture,49568.58,Government,Recovered,No,2
+P0606,25,Male,East,27-01-2023,05-02-2023,Cardiology,Hypertension,191024.28,Government,Improved,No,1
+P0607,30,Female,South,07-12-2023,17-12-2023,Orthopedics,Migraine,135500.99,Private,Improved,Yes,4
+P0608,55,Female,West,08-11-2023,15-11-2023,Oncology,Diabetes,149604.83,Government,Recovered,Yes,3
+P0609,41,Male,South,22-09-2023,30-09-2023,Cardiology,Migraine,48675.35,Private,Improved,Yes,4
+P0610,81,Male,West,13-03-2023,20-03-2023,Orthopedics,Migraine,164045.92,Private,Critical,No,5
+P0611,67,Male,North,02-09-2023,03-09-2023,Oncology,Diabetes,117109.96,Self-Pay,Recovered,Yes,2
+P0612,25,Female,South,06-05-2023,08-05-2023,Neurology,Fracture,68227.11,Government,Recovered,No,5
+P0613,80,Female,North,08-11-2023,16-11-2023,Cardiology,Cancer,183030.78,Private,Recovered,Yes,3
+P0614,42,Female,West,04-08-2023,14-08-2023,Oncology,Hypertension,13063.25,Self-Pay,Critical,Yes,2
+P0615,47,Male,South,15-04-2023,25-04-2023,Neurology,Heart Disease,194288.65,Self-Pay,Recovered,No,2
+P0616,62,Male,East,28-06-2023,07-07-2023,Cardiology,Cancer,160539.82,Government,Critical,No,2
+P0617,37,Female,South,22-10-2023,23-10-2023,General Medicine,Migraine,41899.04,Private,Recovered,Yes,1
+P0618,67,Female,South,11-02-2023,13-02-2023,Oncology,Diabetes,144357.43,Self-Pay,Critical,Yes,3
+P0619,51,Female,West,19-11-2023,20-11-2023,Pediatrics,Migraine,148330.56,Government,Critical,No,1
+P0620,25,Male,South,16-04-2023,19-04-2023,Oncology,Hypertension,179557.42,Private,Recovered,Yes,4
+P0621,81,Male,North,19-03-2023,29-03-2023,Orthopedics,Diabetes,100925.72,Private,Improved,No,5
+P0622,21,Male,South,08-01-2023,20-01-2023,General Medicine,Cancer,166460.04,Government,Improved,No,2
+P0623,21,Male,West,06-08-2023,21-08-2023,General Medicine,Hypertension,149369.83,Private,Critical,No,3
+P0624,45,Male,West,13-09-2023,22-09-2023,Neurology,Migraine,175743.37,Government,Improved,No,4
+P0625,84,Male,North,21-09-2023,06-10-2023,Orthopedics,Asthma,186141.9,Self-Pay,Critical,Yes,1
+P0626,35,Female,West,06-02-2023,07-02-2023,Cardiology,Migraine,126312.71,Self-Pay,Critical,Yes,5
+P0627,70,Male,East,15-06-2023,18-06-2023,Orthopedics,Migraine,92418.59,Private,Improved,Yes,5
+P0628,73,Female,North,09-03-2023,17-03-2023,Neurology,Migraine,75381.31,Government,Critical,No,2
+P0629,51,Male,North,04-01-2023,14-01-2023,Pediatrics,Diabetes,109542.69,Private,Improved,No,1
+P0630,69,Male,East,15-10-2023,29-10-2023,Pediatrics,Hypertension,52876.4,Private,Recovered,Yes,4
+P0631,82,Male,North,15-06-2023,23-06-2023,Pediatrics,Asthma,118875.85,Government,Recovered,No,3
+P0632,49,Female,East,21-06-2023,30-06-2023,General Medicine,Migraine,151688.09,Private,Recovered,No,5
+P0633,31,Male,East,27-12-2023,31-12-2023,Pediatrics,Fracture,7624.34,Self-Pay,Improved,No,5
+P0634,78,Male,West,18-11-2023,23-11-2023,General Medicine,Cancer,25324.2,Self-Pay,Critical,No,4
+P0635,55,Female,North,10-10-2023,25-10-2023,Orthopedics,Cancer,36885.02,Self-Pay,Improved,No,4
+P0636,60,Female,South,25-04-2023,04-05-2023,General Medicine,Cancer,135991.14,Private,Critical,Yes,2
+P0637,64,Female,South,13-08-2023,19-08-2023,Neurology,Diabetes,102566.12,Government,Recovered,Yes,5
+P0638,65,Male,South,03-09-2023,15-09-2023,General Medicine,Diabetes,158232.66,Self-Pay,Improved,Yes,4
+P0639,56,Female,South,27-09-2023,12-10-2023,General Medicine,Cancer,160923.37,Self-Pay,Improved,Yes,3
+P0640,18,Female,East,17-07-2023,26-07-2023,Oncology,Heart Disease,71200.25,Private,Critical,No,1
+P0641,72,Female,East,10-02-2023,17-02-2023,Orthopedics,Diabetes,113311.79,Government,Improved,No,3
+P0642,47,Male,West,29-11-2023,09-12-2023,Orthopedics,Asthma,58119.69,Self-Pay,Critical,Yes,5
+P0643,47,Male,South,12-07-2023,14-07-2023,Neurology,Cancer,36933.45,Self-Pay,Recovered,No,1
+P0644,35,Female,North,28-11-2023,10-12-2023,Orthopedics,Diabetes,105660.16,Government,Critical,Yes,5
+P0645,50,Male,North,01-08-2023,12-08-2023,Neurology,Migraine,88014.51,Government,Critical,Yes,1
+P0646,70,Female,North,17-05-2023,31-05-2023,Neurology,Fracture,106706.03,Self-Pay,Recovered,Yes,3
+P0647,37,Female,East,26-03-2023,04-04-2023,Pediatrics,Hypertension,43603.02,Government,Critical,No,1
+P0648,53,Female,East,11-04-2023,24-04-2023,Orthopedics,Fracture,110976.85,Private,Recovered,No,4
+P0649,25,Female,East,15-10-2023,21-10-2023,Orthopedics,Migraine,103822.19,Self-Pay,Improved,Yes,5
+P0650,55,Male,South,11-01-2023,14-01-2023,Pediatrics,Cancer,131945.41,Private,Improved,Yes,2
+P0651,18,Male,North,17-03-2023,18-03-2023,Orthopedics,Asthma,124331.17,Self-Pay,Critical,No,2
+P0652,64,Male,East,26-02-2023,27-02-2023,General Medicine,Migraine,111836.2,Private,Critical,Yes,1
+P0653,23,Male,North,03-07-2023,09-07-2023,General Medicine,Hypertension,187448.53,Government,Critical,Yes,4
+P0654,51,Male,East,28-08-2023,29-08-2023,Orthopedics,Migraine,172884.5,Government,Recovered,Yes,2
+P0655,80,Male,West,24-06-2023,01-07-2023,Oncology,Migraine,197254.88,Government,Recovered,No,2
+P0656,24,Male,South,29-01-2023,31-01-2023,Cardiology,Hypertension,10077.4,Private,Recovered,Yes,4
+P0657,78,Male,West,16-08-2023,17-08-2023,Cardiology,Diabetes,40734.21,Self-Pay,Improved,Yes,2
+P0658,22,Male,West,12-12-2023,24-12-2023,Orthopedics,Hypertension,7578.75,Private,Recovered,No,5
+P0659,35,Male,South,11-03-2023,13-03-2023,Orthopedics,Hypertension,142481.26,Government,Recovered,Yes,5
+P0660,76,Male,North,09-06-2023,14-06-2023,Neurology,Asthma,109819.89,Government,Critical,No,3
+P0661,69,Female,North,19-08-2023,24-08-2023,Cardiology,Heart Disease,41624.86,Self-Pay,Critical,No,5
+P0662,53,Female,East,21-07-2023,27-07-2023,Neurology,Heart Disease,7470.87,Government,Improved,No,4
+P0663,50,Male,North,24-01-2023,28-01-2023,Cardiology,Heart Disease,15193.73,Private,Critical,No,1
+P0664,51,Male,South,04-06-2023,10-06-2023,Cardiology,Asthma,158652.09,Private,Critical,Yes,2
+P0665,58,Female,South,27-10-2023,07-11-2023,Cardiology,Migraine,131502.12,Self-Pay,Recovered,No,5
+P0666,34,Male,East,22-06-2023,23-06-2023,Neurology,Asthma,44349.18,Government,Critical,No,2
+P0667,23,Female,West,04-06-2023,07-06-2023,Orthopedics,Asthma,192731.83,Private,Critical,Yes,5
+P0668,35,Male,North,30-07-2023,14-08-2023,General Medicine,Asthma,137665.42,Self-Pay,Recovered,No,1
+P0669,29,Female,East,25-03-2023,30-03-2023,Cardiology,Hypertension,177900.74,Private,Critical,Yes,3
+P0670,59,Male,South,23-03-2023,26-03-2023,Neurology,Diabetes,109253.67,Self-Pay,Critical,No,4
+P0671,64,Male,North,06-09-2023,14-09-2023,Pediatrics,Cancer,21694.02,Government,Critical,No,3
+P0672,58,Female,North,03-03-2023,14-03-2023,Orthopedics,Cancer,91551.54,Government,Recovered,No,4
+P0673,31,Male,East,10-07-2023,11-07-2023,Neurology,Heart Disease,107433.63,Government,Critical,Yes,5
+P0674,37,Female,South,31-12-2023,12-01-2024,Oncology,Fracture,32984.81,Government,Recovered,No,5
+P0675,55,Male,West,07-10-2023,14-10-2023,Oncology,Hypertension,166219.61,Self-Pay,Critical,No,3
+P0676,58,Female,East,30-07-2023,07-08-2023,Pediatrics,Cancer,146748.53,Private,Critical,Yes,4
+P0677,26,Male,South,29-12-2023,11-01-2024,Pediatrics,Asthma,36186.76,Self-Pay,Improved,No,1
+P0678,46,Female,West,12-01-2023,25-01-2023,Neurology,Asthma,27446.13,Self-Pay,Improved,Yes,3
+P0679,56,Female,South,26-03-2023,30-03-2023,Cardiology,Heart Disease,79603.62,Private,Critical,No,1
+P0680,64,Female,West,01-09-2023,16-09-2023,General Medicine,Migraine,5219.55,Private,Recovered,Yes,3
+P0681,21,Male,East,01-06-2023,04-06-2023,Oncology,Migraine,191908.31,Private,Critical,Yes,4
+P0682,19,Female,North,11-01-2023,23-01-2023,Pediatrics,Heart Disease,146846.68,Government,Critical,Yes,4
+P0683,38,Female,North,06-11-2023,15-11-2023,Oncology,Asthma,164845.74,Self-Pay,Recovered,Yes,3
+P0684,80,Female,South,11-07-2023,21-07-2023,Pediatrics,Heart Disease,145992.49,Private,Critical,No,4
+P0685,75,Male,West,19-01-2023,03-02-2023,Pediatrics,Heart Disease,6735.75,Self-Pay,Recovered,No,5
+P0686,23,Male,South,21-12-2023,23-12-2023,Neurology,Fracture,184724.77,Private,Improved,No,3
+P0687,65,Female,West,28-02-2023,13-03-2023,Oncology,Fracture,81641.01,Government,Critical,Yes,2
+P0688,65,Male,East,27-11-2023,03-12-2023,Orthopedics,Migraine,54364.91,Government,Recovered,Yes,4
+P0689,27,Male,South,24-06-2023,27-06-2023,Neurology,Diabetes,158871.57,Self-Pay,Improved,No,4
+P0690,57,Male,West,28-02-2023,03-03-2023,Orthopedics,Migraine,154598.19,Government,Critical,Yes,2
+P0691,62,Female,East,19-07-2023,21-07-2023,Cardiology,Diabetes,172464.96,Self-Pay,Critical,Yes,1
+P0692,68,Male,East,29-10-2023,02-11-2023,Oncology,Heart Disease,52694.33,Government,Improved,Yes,3
+P0693,62,Male,South,06-10-2023,07-10-2023,Oncology,Hypertension,182257.11,Private,Critical,Yes,5
+P0694,23,Female,South,18-01-2023,25-01-2023,Oncology,Hypertension,106730.85,Government,Critical,Yes,4
+P0695,48,Female,South,11-06-2023,23-06-2023,Cardiology,Heart Disease,10630.62,Self-Pay,Critical,No,4
+P0696,28,Male,South,28-04-2023,11-05-2023,Oncology,Diabetes,136623.29,Private,Improved,No,1
+P0697,62,Male,West,17-09-2023,22-09-2023,Neurology,Heart Disease,88477.75,Government,Improved,No,2
+P0698,83,Female,West,04-06-2023,19-06-2023,Neurology,Cancer,196035.82,Self-Pay,Improved,No,4
+P0699,52,Female,North,27-06-2023,12-07-2023,Cardiology,Asthma,170355.56,Self-Pay,Improved,Yes,3
+P0700,61,Male,West,26-05-2023,29-05-2023,Oncology,Hypertension,176291.27,Private,Critical,No,4
+P0701,85,Male,North,04-04-2023,08-04-2023,Pediatrics,Cancer,68308.76,Government,Improved,No,1
+P0702,50,Male,West,20-10-2023,27-10-2023,General Medicine,Migraine,41120.67,Government,Critical,No,4
+P0703,49,Female,South,02-07-2023,12-07-2023,Orthopedics,Asthma,88333.17,Private,Critical,No,1
+P0704,44,Male,East,17-09-2023,27-09-2023,Orthopedics,Asthma,119075.27,Government,Critical,Yes,4
+P0705,18,Female,West,30-09-2023,15-10-2023,Oncology,Asthma,148305.85,Private,Recovered,Yes,1
+P0706,26,Female,North,17-08-2023,21-08-2023,Cardiology,Hypertension,36888.72,Government,Improved,Yes,3
+P0707,22,Female,South,04-06-2023,16-06-2023,Cardiology,Fracture,153134.41,Government,Critical,Yes,3
+P0708,62,Female,West,05-03-2023,07-03-2023,Cardiology,Migraine,93390.86,Government,Improved,No,1
+P0709,76,Female,West,21-09-2023,28-09-2023,Neurology,Cancer,115701.53,Self-Pay,Critical,Yes,4
+P0710,51,Female,East,05-07-2023,16-07-2023,Orthopedics,Asthma,190789.01,Private,Critical,Yes,4
+P0711,47,Male,North,01-10-2023,11-10-2023,Pediatrics,Diabetes,199638.58,Self-Pay,Improved,No,3
+P0712,65,Male,West,13-06-2023,23-06-2023,Pediatrics,Migraine,36007.61,Private,Recovered,Yes,3
+P0713,28,Female,West,14-04-2023,21-04-2023,Oncology,Migraine,30180.73,Government,Improved,Yes,1
+P0714,52,Female,South,09-12-2023,24-12-2023,Pediatrics,Hypertension,88888.11,Private,Improved,Yes,2
+P0715,19,Male,South,03-06-2023,13-06-2023,General Medicine,Cancer,86508.83,Private,Critical,Yes,1
+P0716,26,Female,North,22-06-2023,03-07-2023,General Medicine,Diabetes,181800.72,Self-Pay,Critical,Yes,5
+P0717,73,Female,East,04-08-2023,16-08-2023,Neurology,Fracture,56371.08,Self-Pay,Recovered,Yes,3
+P0718,78,Male,East,14-02-2023,23-02-2023,Pediatrics,Cancer,35965.32,Self-Pay,Improved,Yes,2
+P0719,21,Female,West,03-09-2023,18-09-2023,Neurology,Cancer,193718.11,Government,Recovered,No,4
+P0720,82,Female,North,01-12-2023,16-12-2023,Cardiology,Diabetes,26261.59,Self-Pay,Critical,No,4
+P0721,66,Female,North,06-08-2023,16-08-2023,Cardiology,Diabetes,24635.99,Government,Improved,No,1
+P0722,73,Female,North,13-12-2023,22-12-2023,Pediatrics,Cancer,138274.32,Government,Recovered,Yes,4
+P0723,42,Female,South,21-05-2023,29-05-2023,Cardiology,Diabetes,176297.78,Government,Critical,No,3
+P0724,19,Female,North,06-03-2023,09-03-2023,Neurology,Cancer,165210.81,Private,Critical,No,2
+P0725,36,Male,North,04-04-2023,16-04-2023,Orthopedics,Asthma,148993.49,Government,Improved,Yes,5
+P0726,38,Female,West,27-09-2023,09-10-2023,Pediatrics,Migraine,44089.49,Self-Pay,Critical,No,1
+P0727,67,Female,East,22-05-2023,01-06-2023,Cardiology,Migraine,29396.96,Self-Pay,Critical,No,1
+P0728,62,Female,West,21-11-2023,25-11-2023,General Medicine,Heart Disease,5352.04,Self-Pay,Critical,Yes,2
+P0729,39,Female,North,02-05-2023,08-05-2023,Orthopedics,Heart Disease,165752.44,Private,Critical,No,1
+P0730,55,Female,West,12-03-2023,27-03-2023,Pediatrics,Heart Disease,197141.93,Private,Improved,No,4
+P0731,64,Male,South,11-06-2023,12-06-2023,Neurology,Fracture,116919.31,Private,Critical,No,2
+P0732,73,Female,West,05-04-2023,18-04-2023,Pediatrics,Asthma,63714.23,Private,Improved,Yes,5
+P0733,43,Male,South,22-07-2023,31-07-2023,Orthopedics,Cancer,132287.07,Self-Pay,Recovered,No,1
+P0734,35,Male,East,08-09-2023,16-09-2023,Cardiology,Cancer,27439.9,Self-Pay,Critical,Yes,5
+P0735,72,Male,West,18-11-2023,03-12-2023,Orthopedics,Migraine,122821.62,Self-Pay,Improved,Yes,2
+P0736,35,Male,North,18-05-2023,28-05-2023,Cardiology,Fracture,194521.71,Private,Improved,Yes,2
+P0737,30,Male,South,16-02-2023,20-02-2023,Orthopedics,Asthma,86228.74,Private,Improved,Yes,4
+P0738,45,Female,West,30-11-2023,03-12-2023,Pediatrics,Migraine,68171.99,Self-Pay,Improved,No,4
+P0739,35,Male,West,30-08-2023,02-09-2023,Cardiology,Diabetes,61207.29,Private,Improved,No,5
+P0740,64,Female,North,02-10-2023,12-10-2023,Orthopedics,Asthma,147621.28,Private,Critical,Yes,1
+P0741,60,Male,West,06-04-2023,17-04-2023,Cardiology,Asthma,97372.68,Self-Pay,Recovered,Yes,2
+P0742,29,Female,East,07-07-2023,11-07-2023,Oncology,Diabetes,14592.2,Private,Critical,No,2
+P0743,77,Female,East,17-04-2023,28-04-2023,Orthopedics,Migraine,110464.82,Self-Pay,Improved,No,3
+P0744,47,Female,East,12-09-2023,14-09-2023,Pediatrics,Heart Disease,91670.24,Private,Improved,Yes,5
+P0745,32,Female,West,18-07-2023,25-07-2023,Cardiology,Fracture,113620.99,Private,Improved,No,4
+P0746,51,Female,North,09-07-2023,22-07-2023,Neurology,Fracture,156859.07,Private,Recovered,Yes,1
+P0747,49,Male,South,24-03-2023,05-04-2023,Oncology,Hypertension,193573.42,Self-Pay,Improved,Yes,2
+P0748,25,Female,South,13-08-2023,14-08-2023,Pediatrics,Heart Disease,50081.67,Self-Pay,Recovered,Yes,2
+P0749,19,Male,East,30-03-2023,13-04-2023,General Medicine,Asthma,105808.42,Self-Pay,Recovered,No,1
+P0750,64,Female,North,14-12-2023,28-12-2023,General Medicine,Migraine,84132.8,Government,Critical,No,2
+P0751,55,Male,West,26-12-2023,10-01-2024,Oncology,Migraine,132086.37,Government,Recovered,Yes,4
+P0752,23,Female,West,07-04-2023,18-04-2023,General Medicine,Cancer,10884.1,Government,Critical,No,5
+P0753,77,Male,South,12-10-2023,24-10-2023,Pediatrics,Heart Disease,120846.33,Government,Recovered,No,2
+P0754,83,Male,South,14-05-2023,28-05-2023,General Medicine,Cancer,65244.35,Government,Critical,Yes,1
+P0755,75,Female,East,01-06-2023,03-06-2023,Oncology,Asthma,142452.71,Self-Pay,Improved,Yes,3
+P0756,39,Male,East,12-05-2023,27-05-2023,General Medicine,Hypertension,9853.86,Government,Recovered,Yes,2
+P0757,71,Female,East,25-03-2023,01-04-2023,Orthopedics,Cancer,103434.05,Self-Pay,Recovered,Yes,1
+P0758,28,Male,East,29-05-2023,02-06-2023,Neurology,Fracture,6020.99,Private,Improved,Yes,3
+P0759,42,Female,North,21-08-2023,23-08-2023,General Medicine,Heart Disease,10046.8,Self-Pay,Improved,Yes,3
+P0760,73,Male,North,29-09-2023,04-10-2023,Cardiology,Fracture,191344.45,Government,Improved,Yes,4
+P0761,43,Male,South,26-01-2023,10-02-2023,Pediatrics,Cancer,9319.33,Private,Critical,Yes,1
+P0762,30,Male,North,27-05-2023,09-06-2023,Pediatrics,Asthma,112237.21,Private,Recovered,No,4
+P0763,51,Male,South,17-09-2023,23-09-2023,Orthopedics,Fracture,188433.6,Self-Pay,Improved,No,3
+P0764,38,Female,South,15-12-2023,25-12-2023,Orthopedics,Heart Disease,179838.02,Private,Improved,Yes,3
+P0765,48,Female,North,11-07-2023,24-07-2023,Oncology,Migraine,130299.52,Government,Improved,No,3
+P0766,85,Male,East,18-04-2023,01-05-2023,Neurology,Asthma,12927.73,Self-Pay,Improved,Yes,5
+P0767,70,Female,West,28-05-2023,01-06-2023,Cardiology,Heart Disease,69068.67,Self-Pay,Improved,Yes,3
+P0768,45,Female,West,13-10-2023,25-10-2023,Orthopedics,Migraine,137550.15,Private,Recovered,No,2
+P0769,40,Female,South,29-03-2023,09-04-2023,General Medicine,Heart Disease,109781.08,Private,Improved,Yes,2
+P0770,63,Female,South,05-07-2023,15-07-2023,Pediatrics,Heart Disease,124339.98,Private,Improved,No,5
+P0771,67,Male,East,22-01-2023,25-01-2023,Oncology,Hypertension,13120.08,Private,Improved,Yes,5
+P0772,77,Female,West,12-11-2023,27-11-2023,Oncology,Hypertension,154142.05,Government,Recovered,No,4
+P0773,73,Male,South,14-12-2023,23-12-2023,Oncology,Cancer,179331.22,Private,Critical,Yes,1
+P0774,55,Female,South,21-12-2023,29-12-2023,Pediatrics,Fracture,137832.8,Government,Recovered,No,1
+P0775,61,Male,West,07-12-2023,20-12-2023,Oncology,Heart Disease,109113.68,Government,Improved,No,3
+P0776,25,Female,South,28-03-2023,07-04-2023,General Medicine,Cancer,61859.73,Self-Pay,Recovered,Yes,4
+P0777,76,Male,South,18-12-2023,19-12-2023,General Medicine,Hypertension,108481.59,Government,Recovered,Yes,5
+P0778,59,Male,East,02-12-2023,04-12-2023,Orthopedics,Migraine,66885.38,Government,Improved,Yes,5
+P0779,50,Male,East,23-05-2023,01-06-2023,Cardiology,Migraine,10431.38,Private,Improved,No,2
+P0780,40,Male,West,12-05-2023,26-05-2023,Orthopedics,Migraine,164179.71,Private,Improved,Yes,2
+P0781,71,Female,West,11-10-2023,15-10-2023,Cardiology,Hypertension,167486.82,Government,Recovered,Yes,2
+P0782,71,Male,South,14-05-2023,23-05-2023,Cardiology,Diabetes,41881.08,Private,Critical,No,4
+P0783,48,Male,North,22-10-2023,26-10-2023,Neurology,Migraine,33890.69,Government,Recovered,No,5
+P0784,79,Female,West,13-07-2023,28-07-2023,Neurology,Migraine,86378.22,Private,Critical,Yes,1
+P0785,54,Male,North,15-01-2023,21-01-2023,Neurology,Heart Disease,106128.59,Government,Recovered,Yes,2
+P0786,85,Male,East,25-04-2023,01-05-2023,General Medicine,Asthma,157981.39,Private,Recovered,Yes,3
+P0787,41,Male,North,10-06-2023,16-06-2023,Pediatrics,Fracture,150304.21,Government,Improved,No,1
+P0788,62,Male,West,10-07-2023,23-07-2023,Neurology,Hypertension,9184.94,Self-Pay,Recovered,No,1
+P0789,65,Male,West,07-03-2023,14-03-2023,Cardiology,Asthma,129068.24,Self-Pay,Critical,Yes,2
+P0790,61,Male,North,02-09-2023,16-09-2023,General Medicine,Heart Disease,44806.08,Government,Critical,No,5
+P0791,50,Female,East,08-01-2023,11-01-2023,Neurology,Migraine,50041.29,Government,Improved,No,3
+P0792,56,Male,West,22-12-2023,03-01-2024,Orthopedics,Asthma,124254.73,Private,Recovered,Yes,5
+P0793,83,Male,North,23-05-2023,02-06-2023,Pediatrics,Diabetes,169531.27,Private,Critical,Yes,5
+P0794,83,Male,South,15-11-2023,25-11-2023,Cardiology,Heart Disease,50634.3,Government,Recovered,No,4
+P0795,65,Male,North,11-02-2023,16-02-2023,General Medicine,Hypertension,14897.84,Private,Recovered,Yes,1
+P0796,65,Male,East,09-06-2023,16-06-2023,Cardiology,Migraine,77365.75,Private,Critical,Yes,5
+P0797,18,Male,North,22-04-2023,26-04-2023,Oncology,Hypertension,92752.49,Government,Critical,Yes,1
+P0798,80,Female,East,14-04-2023,21-04-2023,Oncology,Migraine,20888.53,Private,Critical,Yes,5
+P0799,66,Male,North,25-05-2023,26-05-2023,Cardiology,Migraine,147233.4,Government,Improved,Yes,4
+P0800,76,Female,East,05-04-2023,15-04-2023,Neurology,Fracture,43937.23,Government,Critical,No,5
+P0801,67,Male,North,12-04-2023,27-04-2023,Neurology,Fracture,133396.56,Government,Recovered,No,3
+P0802,77,Male,East,26-07-2023,31-07-2023,Neurology,Cancer,75442.11,Government,Improved,Yes,5
+P0803,33,Female,North,05-10-2023,20-10-2023,Cardiology,Diabetes,14434.45,Private,Recovered,Yes,2
+P0804,44,Male,West,08-07-2023,21-07-2023,Pediatrics,Heart Disease,183618.9,Government,Improved,No,2
+P0805,42,Male,East,17-10-2023,21-10-2023,Pediatrics,Hypertension,135683.81,Self-Pay,Critical,No,3
+P0806,24,Female,West,13-08-2023,27-08-2023,Cardiology,Heart Disease,52973.82,Government,Critical,Yes,1
+P0807,24,Female,North,22-08-2023,24-08-2023,Cardiology,Migraine,38968.42,Private,Critical,Yes,1
+P0808,29,Male,North,19-03-2023,31-03-2023,Oncology,Hypertension,136074.82,Self-Pay,Improved,Yes,3
+P0809,69,Male,East,06-05-2023,09-05-2023,Cardiology,Fracture,26230.85,Government,Improved,Yes,5
+P0810,23,Male,South,20-08-2023,23-08-2023,Neurology,Asthma,41195.44,Self-Pay,Critical,Yes,2
+P0811,23,Male,West,12-07-2023,17-07-2023,Oncology,Cancer,182309.58,Private,Improved,No,1
+P0812,83,Male,West,23-12-2023,01-01-2024,Neurology,Hypertension,14420.63,Private,Recovered,No,3
+P0813,69,Male,East,18-02-2023,27-02-2023,General Medicine,Diabetes,182962,Government,Recovered,No,2
+P0814,63,Male,West,11-02-2023,15-02-2023,Orthopedics,Hypertension,119820.9,Government,Improved,No,3
+P0815,85,Female,East,25-07-2023,08-08-2023,Orthopedics,Cancer,19232.45,Self-Pay,Critical,No,3
+P0816,24,Female,East,02-10-2023,11-10-2023,General Medicine,Asthma,124253.4,Self-Pay,Critical,Yes,2
+P0817,56,Female,East,19-03-2023,30-03-2023,Oncology,Diabetes,166003.41,Private,Improved,Yes,3
+P0818,24,Female,East,15-02-2023,02-03-2023,Orthopedics,Cancer,190342.12,Self-Pay,Improved,Yes,1
+P0819,51,Male,North,25-02-2023,07-03-2023,Oncology,Diabetes,89134.49,Private,Critical,Yes,4
+P0820,38,Male,North,12-05-2023,25-05-2023,General Medicine,Heart Disease,178823.66,Private,Critical,No,2
+P0821,71,Female,East,31-07-2023,13-08-2023,General Medicine,Cancer,94148.63,Government,Improved,No,5
+P0822,77,Female,North,04-07-2023,08-07-2023,Neurology,Migraine,126906.67,Self-Pay,Improved,No,2
+P0823,39,Male,North,04-09-2023,12-09-2023,Cardiology,Asthma,28298.47,Private,Improved,Yes,4
+P0824,31,Male,North,15-11-2023,29-11-2023,Orthopedics,Migraine,74806.04,Self-Pay,Improved,No,1
+P0825,69,Female,South,18-11-2023,26-11-2023,Oncology,Cancer,187231.27,Self-Pay,Improved,No,4
+P0826,35,Female,North,13-01-2023,21-01-2023,Neurology,Fracture,7282.08,Private,Recovered,No,2
+P0827,60,Female,East,12-05-2023,23-05-2023,Pediatrics,Heart Disease,39128.73,Self-Pay,Improved,Yes,4
+P0828,57,Male,West,25-12-2023,26-12-2023,General Medicine,Diabetes,116429.75,Government,Critical,Yes,3
+P0829,21,Female,South,30-07-2023,14-08-2023,Oncology,Heart Disease,30474.79,Private,Critical,No,5
+P0830,69,Male,North,14-01-2023,16-01-2023,Orthopedics,Migraine,23493.36,Self-Pay,Improved,Yes,3
+P0831,29,Female,West,29-01-2023,31-01-2023,Orthopedics,Cancer,174099.36,Private,Improved,Yes,1
+P0832,70,Male,South,15-11-2023,19-11-2023,Pediatrics,Migraine,154175.39,Private,Recovered,No,4
+P0833,31,Male,South,16-10-2023,25-10-2023,Oncology,Heart Disease,51532.65,Self-Pay,Improved,No,5
+P0834,22,Female,West,04-09-2023,19-09-2023,Oncology,Fracture,127948.82,Government,Improved,Yes,3
+P0835,24,Female,North,16-09-2023,27-09-2023,Neurology,Migraine,111667.62,Self-Pay,Improved,No,2
+P0836,45,Female,East,14-09-2023,20-09-2023,Orthopedics,Cancer,33801.58,Government,Improved,No,2
+P0837,57,Female,East,23-11-2023,30-11-2023,General Medicine,Heart Disease,75783.34,Private,Critical,No,4
+P0838,41,Male,North,29-05-2023,07-06-2023,Cardiology,Heart Disease,23904.91,Self-Pay,Recovered,Yes,1
+P0839,33,Male,North,07-06-2023,19-06-2023,Orthopedics,Asthma,113700.52,Government,Critical,Yes,1
+P0840,85,Female,East,17-10-2023,20-10-2023,Orthopedics,Asthma,162670.81,Private,Critical,Yes,3
+P0841,31,Female,East,13-10-2023,19-10-2023,Orthopedics,Cancer,67424.7,Government,Critical,No,2
+P0842,78,Male,South,03-09-2023,17-09-2023,Pediatrics,Fracture,31944.63,Private,Recovered,No,4
+P0843,62,Male,South,17-03-2023,31-03-2023,Cardiology,Asthma,166902.86,Government,Critical,Yes,3
+P0844,26,Male,East,17-08-2023,24-08-2023,Neurology,Diabetes,16273.09,Private,Improved,No,5
+P0845,19,Male,North,24-05-2023,29-05-2023,General Medicine,Hypertension,9131.74,Self-Pay,Improved,No,2
+P0846,62,Female,West,31-07-2023,01-08-2023,General Medicine,Hypertension,82112.43,Self-Pay,Improved,No,1
+P0847,27,Male,North,03-02-2023,18-02-2023,General Medicine,Hypertension,124545.01,Private,Recovered,No,3
+P0848,71,Male,South,27-02-2023,12-03-2023,Cardiology,Asthma,115766.19,Private,Recovered,Yes,2
+P0849,40,Male,East,23-03-2023,03-04-2023,General Medicine,Cancer,149971.69,Government,Recovered,No,1
+P0850,31,Female,North,21-12-2023,03-01-2024,Orthopedics,Migraine,94756.01,Private,Critical,Yes,5
+P0851,40,Female,East,12-07-2023,25-07-2023,Oncology,Asthma,148934.89,Private,Improved,Yes,3
+P0852,41,Male,South,16-06-2023,19-06-2023,Cardiology,Heart Disease,197413.87,Self-Pay,Critical,Yes,4
+P0853,66,Female,North,08-02-2023,20-02-2023,Neurology,Fracture,150388.74,Government,Critical,No,3
+P0854,48,Female,North,03-02-2023,17-02-2023,Orthopedics,Cancer,137606.63,Private,Recovered,Yes,2
+P0855,34,Male,North,04-06-2023,12-06-2023,Pediatrics,Hypertension,35145.8,Self-Pay,Improved,No,4
+P0856,74,Male,East,08-08-2023,18-08-2023,Oncology,Hypertension,38534.38,Self-Pay,Critical,No,3
+P0857,57,Male,East,30-07-2023,10-08-2023,Pediatrics,Hypertension,69525.81,Private,Improved,No,2
+P0858,66,Male,North,31-10-2023,08-11-2023,Cardiology,Fracture,114301.93,Private,Recovered,Yes,1
+P0859,67,Female,West,29-05-2023,05-06-2023,Oncology,Heart Disease,198239.19,Self-Pay,Critical,Yes,2
+P0860,38,Male,East,25-10-2023,08-11-2023,Neurology,Migraine,118510.47,Self-Pay,Improved,Yes,2
+P0861,81,Female,North,01-11-2023,10-11-2023,General Medicine,Fracture,87662.85,Private,Improved,No,2
+P0862,20,Female,West,02-08-2023,15-08-2023,General Medicine,Migraine,17133.49,Self-Pay,Recovered,No,2
+P0863,76,Male,West,23-12-2023,02-01-2024,General Medicine,Heart Disease,64318.47,Private,Improved,No,3
+P0864,84,Female,West,25-03-2023,27-03-2023,Neurology,Cancer,100386.25,Self-Pay,Improved,Yes,4
+P0865,85,Female,West,08-04-2023,18-04-2023,Orthopedics,Diabetes,12118.99,Self-Pay,Improved,Yes,5
+P0866,58,Male,East,04-12-2023,12-12-2023,Orthopedics,Asthma,166211.71,Self-Pay,Recovered,Yes,3
+P0867,62,Female,South,12-03-2023,18-03-2023,General Medicine,Heart Disease,77963.86,Government,Recovered,Yes,1
+P0868,61,Male,North,20-02-2023,26-02-2023,Oncology,Heart Disease,77796.1,Government,Improved,No,4
+P0869,43,Male,South,05-01-2023,18-01-2023,Cardiology,Diabetes,106563.5,Private,Improved,Yes,3
+P0870,75,Female,North,05-05-2023,15-05-2023,General Medicine,Hypertension,128886.56,Government,Improved,No,2
+P0871,76,Male,North,11-08-2023,17-08-2023,Orthopedics,Hypertension,180603.98,Government,Recovered,No,5
+P0872,33,Male,North,19-04-2023,21-04-2023,Neurology,Cancer,122134.84,Government,Recovered,No,4
+P0873,36,Female,South,16-12-2023,24-12-2023,Neurology,Fracture,67609.37,Private,Recovered,Yes,3
+P0874,22,Male,East,10-02-2023,15-02-2023,Neurology,Migraine,184556.67,Government,Improved,Yes,2
+P0875,26,Female,West,19-04-2023,29-04-2023,Cardiology,Asthma,179893.78,Government,Recovered,No,1
+P0876,21,Male,North,08-06-2023,22-06-2023,General Medicine,Hypertension,184825.88,Government,Critical,Yes,5
+P0877,59,Female,North,02-01-2023,13-01-2023,Cardiology,Hypertension,61670.33,Self-Pay,Improved,No,2
+P0878,80,Female,South,08-12-2023,22-12-2023,Cardiology,Asthma,165773.5,Self-Pay,Critical,Yes,1
+P0879,45,Female,East,31-10-2023,07-11-2023,Cardiology,Heart Disease,156036.98,Self-Pay,Recovered,No,1
+P0880,84,Female,East,24-05-2023,03-06-2023,Pediatrics,Diabetes,62051.61,Private,Recovered,Yes,1
+P0881,57,Male,South,28-06-2023,13-07-2023,Orthopedics,Cancer,123705.27,Self-Pay,Improved,No,5
+P0882,63,Male,East,25-01-2023,01-02-2023,Cardiology,Diabetes,113947.41,Government,Critical,No,2
+P0883,54,Male,South,20-07-2023,25-07-2023,General Medicine,Migraine,184388.49,Government,Recovered,Yes,2
+P0884,63,Female,East,26-05-2023,01-06-2023,Orthopedics,Diabetes,105972.04,Self-Pay,Improved,Yes,3
+P0885,74,Male,West,24-07-2023,28-07-2023,Orthopedics,Cancer,102690.42,Private,Recovered,Yes,5
+P0886,55,Male,West,05-12-2023,15-12-2023,Oncology,Hypertension,62925.76,Self-Pay,Recovered,Yes,2
+P0887,18,Female,South,11-06-2023,26-06-2023,Pediatrics,Cancer,105236.57,Self-Pay,Critical,Yes,3
+P0888,40,Female,South,09-06-2023,24-06-2023,Oncology,Fracture,82715.44,Government,Critical,No,4
+P0889,38,Male,East,19-12-2023,31-12-2023,Orthopedics,Asthma,143723,Self-Pay,Critical,No,3
+P0890,34,Female,East,05-03-2023,18-03-2023,Pediatrics,Hypertension,94555.26,Government,Improved,No,4
+P0891,40,Male,South,05-12-2023,18-12-2023,Pediatrics,Migraine,6716.32,Self-Pay,Critical,Yes,5
+P0892,20,Male,East,25-02-2023,02-03-2023,Pediatrics,Cancer,73742.12,Government,Improved,Yes,4
+P0893,51,Female,East,15-07-2023,24-07-2023,Cardiology,Hypertension,30628.57,Self-Pay,Improved,No,5
+P0894,80,Male,West,30-05-2023,11-06-2023,Pediatrics,Migraine,52223.24,Government,Critical,No,2
+P0895,22,Female,West,02-05-2023,15-05-2023,Orthopedics,Cancer,169302.28,Government,Critical,Yes,5
+P0896,56,Female,South,24-03-2023,30-03-2023,Neurology,Fracture,165030.48,Self-Pay,Recovered,Yes,1
+P0897,61,Male,West,01-09-2023,15-09-2023,General Medicine,Diabetes,115161.03,Self-Pay,Improved,No,5
+P0898,34,Male,West,07-06-2023,13-06-2023,Orthopedics,Hypertension,112849.42,Private,Improved,No,3
+P0899,64,Female,West,05-01-2023,09-01-2023,Oncology,Migraine,51124.02,Private,Recovered,No,1
+P0900,44,Female,North,18-06-2023,29-06-2023,Pediatrics,Fracture,90301.8,Private,Critical,Yes,3
+P0901,28,Male,North,17-12-2023,30-12-2023,Orthopedics,Hypertension,89378.92,Government,Improved,No,3
+P0902,23,Female,North,01-05-2023,03-05-2023,Cardiology,Heart Disease,50879.24,Private,Critical,No,1
+P0903,49,Female,West,19-12-2023,25-12-2023,Oncology,Migraine,96686.95,Self-Pay,Recovered,Yes,5
+P0904,42,Female,South,26-07-2023,04-08-2023,Neurology,Asthma,68611.55,Private,Recovered,Yes,2
+P0905,29,Male,North,21-11-2023,24-11-2023,Oncology,Hypertension,120740.29,Self-Pay,Improved,Yes,4
+P0906,43,Female,North,17-01-2023,01-02-2023,Pediatrics,Hypertension,178109.19,Self-Pay,Recovered,No,4
+P0907,76,Male,East,04-02-2023,05-02-2023,Pediatrics,Asthma,16181.81,Private,Recovered,Yes,3
+P0908,30,Male,East,07-10-2023,10-10-2023,Cardiology,Diabetes,163513.09,Government,Recovered,Yes,5
+P0909,72,Female,South,26-04-2023,08-05-2023,Cardiology,Asthma,137210.41,Government,Improved,No,2
+P0910,40,Male,South,24-06-2023,27-06-2023,Orthopedics,Cancer,169198.21,Government,Recovered,No,3
+P0911,57,Female,East,06-12-2023,09-12-2023,Neurology,Diabetes,136198.79,Government,Recovered,Yes,2
+P0912,18,Female,North,10-12-2023,17-12-2023,Pediatrics,Heart Disease,142466.65,Government,Recovered,Yes,5
+P0913,61,Male,West,09-05-2023,20-05-2023,Cardiology,Migraine,163219.5,Government,Improved,Yes,3
+P0914,75,Male,South,09-04-2023,10-04-2023,Pediatrics,Diabetes,34120.13,Private,Recovered,Yes,4
+P0915,28,Female,East,30-12-2023,01-01-2024,Neurology,Hypertension,45249.22,Self-Pay,Improved,Yes,2
+P0916,83,Female,East,01-11-2023,15-11-2023,Cardiology,Diabetes,5733.64,Self-Pay,Critical,No,5
+P0917,31,Male,North,07-11-2023,15-11-2023,Orthopedics,Fracture,140812.74,Private,Improved,Yes,3
+P0918,81,Male,North,17-06-2023,28-06-2023,Oncology,Asthma,59283.33,Private,Critical,No,2
+P0919,23,Male,East,19-12-2023,02-01-2024,Orthopedics,Cancer,32143.52,Government,Recovered,Yes,5
+P0920,70,Female,North,10-08-2023,16-08-2023,Pediatrics,Diabetes,159001.94,Government,Recovered,No,2
+P0921,39,Female,North,08-06-2023,21-06-2023,Oncology,Heart Disease,39325.64,Government,Critical,Yes,2
+P0922,81,Female,North,30-07-2023,09-08-2023,Oncology,Hypertension,133590.62,Private,Improved,Yes,4
+P0923,27,Female,West,26-03-2023,31-03-2023,Cardiology,Cancer,166719.84,Private,Critical,Yes,4
+P0924,51,Female,North,02-10-2023,10-10-2023,Oncology,Heart Disease,153754.89,Private,Critical,Yes,2
+P0925,55,Female,East,30-05-2023,31-05-2023,Orthopedics,Migraine,125744.28,Self-Pay,Improved,No,1
+P0926,64,Male,South,24-08-2023,05-09-2023,Pediatrics,Asthma,181099.39,Private,Improved,No,3
+P0927,59,Female,West,13-01-2023,23-01-2023,Neurology,Asthma,17659.44,Government,Recovered,No,4
+P0928,18,Male,South,30-03-2023,05-04-2023,Oncology,Hypertension,171030.9,Private,Critical,No,4
+P0929,18,Male,East,01-06-2023,03-06-2023,Pediatrics,Fracture,28164.2,Private,Recovered,Yes,2
+P0930,81,Male,West,10-07-2023,19-07-2023,Cardiology,Migraine,139974.86,Government,Critical,Yes,4
+P0931,34,Female,South,16-08-2023,26-08-2023,Cardiology,Migraine,48260.49,Self-Pay,Improved,Yes,5
+P0932,36,Female,North,14-04-2023,18-04-2023,Cardiology,Heart Disease,95827.74,Self-Pay,Improved,Yes,3
+P0933,61,Female,West,26-07-2023,08-08-2023,Oncology,Cancer,84878.61,Government,Improved,No,1
+P0934,43,Male,East,27-07-2023,10-08-2023,Pediatrics,Migraine,171822.5,Private,Recovered,Yes,3
+P0935,63,Male,East,28-05-2023,06-06-2023,General Medicine,Migraine,185095.63,Private,Recovered,No,3
+P0936,42,Male,North,08-08-2023,13-08-2023,Oncology,Hypertension,18921.63,Government,Improved,Yes,1
+P0937,27,Female,North,06-06-2023,08-06-2023,Neurology,Fracture,97352.28,Government,Improved,No,5
+P0938,72,Male,East,25-08-2023,29-08-2023,Neurology,Fracture,154559.67,Private,Improved,Yes,5
+P0939,26,Male,North,17-11-2023,25-11-2023,Orthopedics,Cancer,48470.17,Private,Critical,Yes,3
+P0940,58,Male,West,24-09-2023,01-10-2023,Orthopedics,Cancer,16957.06,Private,Improved,No,3
+P0941,29,Female,East,08-11-2023,22-11-2023,Oncology,Heart Disease,142553.82,Government,Recovered,No,1
+P0942,23,Male,East,28-10-2023,01-11-2023,General Medicine,Hypertension,12970.14,Government,Critical,No,5
+P0943,29,Female,West,07-11-2023,16-11-2023,Orthopedics,Diabetes,57154.14,Government,Improved,No,5
+P0944,49,Female,West,16-01-2023,19-01-2023,Orthopedics,Migraine,5578.34,Government,Critical,Yes,2
+P0945,46,Male,East,29-04-2023,10-05-2023,Neurology,Hypertension,90207.9,Government,Improved,No,5
+P0946,20,Female,West,19-04-2023,21-04-2023,Pediatrics,Asthma,191649.2,Self-Pay,Improved,No,3
+P0947,18,Female,South,25-02-2023,27-02-2023,Oncology,Cancer,55579.7,Private,Critical,Yes,1
+P0948,45,Male,West,26-03-2023,05-04-2023,General Medicine,Migraine,85378.1,Self-Pay,Critical,Yes,5
+P0949,24,Female,South,04-11-2023,17-11-2023,Oncology,Fracture,86773.07,Government,Recovered,Yes,3
+P0950,43,Male,South,25-07-2023,30-07-2023,Cardiology,Heart Disease,111711.93,Government,Critical,No,2
+P0951,68,Female,East,01-10-2023,13-10-2023,Pediatrics,Heart Disease,25049.15,Self-Pay,Improved,Yes,5
+P0952,40,Female,South,01-08-2023,03-08-2023,Orthopedics,Heart Disease,173212.83,Self-Pay,Critical,Yes,3
+P0953,24,Male,West,29-01-2023,01-02-2023,Oncology,Hypertension,181609.01,Self-Pay,Critical,No,5
+P0954,26,Female,West,02-02-2023,07-02-2023,Oncology,Diabetes,71864.88,Private,Improved,No,5
+P0955,24,Female,North,22-05-2023,30-05-2023,Orthopedics,Asthma,89102.9,Private,Critical,Yes,5
+P0956,73,Female,East,31-03-2023,06-04-2023,Neurology,Hypertension,132700.14,Self-Pay,Recovered,No,1
+P0957,69,Female,East,24-09-2023,27-09-2023,Cardiology,Heart Disease,32248.9,Government,Improved,No,3
+P0958,72,Female,West,11-02-2023,22-02-2023,Oncology,Migraine,31969.47,Private,Improved,Yes,3
+P0959,45,Female,East,18-12-2023,30-12-2023,Pediatrics,Fracture,156740.18,Government,Improved,Yes,2
+P0960,67,Male,South,18-11-2023,21-11-2023,General Medicine,Diabetes,90452.17,Government,Recovered,Yes,2
+P0961,21,Male,West,11-10-2023,22-10-2023,Cardiology,Heart Disease,103701.25,Private,Recovered,Yes,5
+P0962,80,Male,West,28-04-2023,04-05-2023,Orthopedics,Fracture,148680.76,Private,Recovered,Yes,4
+P0963,25,Female,South,08-12-2023,21-12-2023,General Medicine,Diabetes,116012.17,Private,Recovered,Yes,4
+P0964,83,Female,West,12-06-2023,22-06-2023,Orthopedics,Heart Disease,37864.15,Private,Recovered,Yes,5
+P0965,25,Female,North,04-06-2023,06-06-2023,Neurology,Heart Disease,41923.84,Self-Pay,Critical,No,5
+P0966,74,Female,North,02-03-2023,08-03-2023,Neurology,Hypertension,131783.49,Private,Critical,No,2
+P0967,76,Male,North,12-08-2023,15-08-2023,Neurology,Hypertension,155353.41,Self-Pay,Improved,No,2
+P0968,59,Male,East,27-07-2023,08-08-2023,General Medicine,Hypertension,116514.66,Private,Improved,No,5
+P0969,62,Female,East,08-04-2023,21-04-2023,Neurology,Asthma,26763.08,Self-Pay,Critical,No,2
+P0970,68,Female,South,31-03-2023,02-04-2023,Oncology,Migraine,24326.36,Self-Pay,Improved,Yes,3
+P0971,65,Male,East,06-05-2023,09-05-2023,Neurology,Diabetes,137817.08,Self-Pay,Recovered,Yes,1
+P0972,21,Female,South,23-08-2023,07-09-2023,Orthopedics,Diabetes,45564.61,Private,Recovered,Yes,4
+P0973,29,Male,North,23-01-2023,31-01-2023,General Medicine,Cancer,43418.01,Government,Improved,No,2
+P0974,27,Female,West,18-01-2023,20-01-2023,Oncology,Heart Disease,139772.26,Self-Pay,Improved,Yes,4
+P0975,64,Male,East,10-07-2023,18-07-2023,Orthopedics,Migraine,172053.3,Government,Critical,Yes,5
+P0976,47,Male,South,01-03-2023,11-03-2023,Oncology,Hypertension,158713.28,Private,Critical,No,1
+P0977,28,Female,West,06-03-2023,16-03-2023,Neurology,Diabetes,75706.96,Self-Pay,Recovered,Yes,4
+P0978,80,Male,West,27-06-2023,12-07-2023,Pediatrics,Hypertension,186538.3,Self-Pay,Critical,No,3
+P0979,61,Male,South,22-02-2023,27-02-2023,Neurology,Migraine,72806.48,Self-Pay,Critical,No,5
+P0980,36,Female,East,24-09-2023,06-10-2023,Cardiology,Asthma,183930.35,Government,Improved,No,3
+P0981,62,Male,North,09-10-2023,16-10-2023,Cardiology,Heart Disease,58323.64,Self-Pay,Recovered,Yes,4
+P0982,41,Male,West,08-07-2023,13-07-2023,Pediatrics,Heart Disease,119488.17,Self-Pay,Critical,No,5
+P0983,68,Male,North,24-05-2023,27-05-2023,General Medicine,Heart Disease,143081.74,Private,Recovered,Yes,1
+P0984,65,Male,North,22-05-2023,25-05-2023,Oncology,Hypertension,177701.6,Private,Critical,Yes,3
+P0985,65,Male,West,05-11-2023,06-11-2023,Oncology,Heart Disease,42633.64,Private,Recovered,No,1
+P0986,73,Female,West,19-10-2023,20-10-2023,Pediatrics,Hypertension,23886.57,Private,Recovered,No,5
+P0987,21,Female,South,01-08-2023,13-08-2023,Pediatrics,Diabetes,176237.78,Government,Critical,Yes,2
+P0988,80,Male,East,08-03-2023,09-03-2023,Orthopedics,Fracture,177039.22,Private,Improved,Yes,2
+P0989,49,Female,North,08-07-2023,09-07-2023,Oncology,Diabetes,82070.44,Private,Improved,No,1
+P0990,30,Male,West,12-06-2023,15-06-2023,Oncology,Diabetes,193651.18,Government,Recovered,Yes,5
+P0991,79,Male,South,05-11-2023,20-11-2023,Oncology,Hypertension,14950.92,Private,Critical,No,2
+P0992,85,Female,East,29-11-2023,06-12-2023,Cardiology,Fracture,108208.33,Government,Recovered,Yes,4
+P0993,57,Female,North,18-08-2023,02-09-2023,Pediatrics,Migraine,73046.53,Private,Critical,No,3
+P0994,40,Male,East,19-09-2023,04-10-2023,Pediatrics,Heart Disease,66280.14,Private,Critical,Yes,3
+P0995,54,Male,South,14-09-2023,23-09-2023,Oncology,Heart Disease,146981.26,Government,Critical,No,4
+P0996,23,Male,North,10-03-2023,19-03-2023,Orthopedics,Fracture,174379.94,Government,Improved,Yes,1
+P0997,34,Female,West,13-07-2023,16-07-2023,Oncology,Cancer,167497.9,Self-Pay,Improved,No,5
+P0998,26,Female,West,24-07-2023,30-07-2023,General Medicine,Diabetes,70440.47,Self-Pay,Improved,Yes,1
+P0999,25,Female,East,22-07-2023,04-08-2023,Oncology,Cancer,127541.17,Private,Critical,Yes,2
+P1000,65,Male,West,18-02-2023,25-02-2023,General Medicine,Cancer,61531.97,Government,Critical,No,5
